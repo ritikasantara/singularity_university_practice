@@ -1,68 +1,192 @@
+<!DOCTYPE html>
+
 <html>
 
-<head>
-<title>jQuery</title>
-<link rel = "stylesheet" type = "text/css" href = "singularity.css"/>
-<script type= "text/javascript" src = "jQuery.js"></script>
-<script type = "text/javascript" src = "singularity.js"></script>
-<!--<meta name ="viewport" content="width=device-width,initial-scale=1.0">-->
+	<head>
+		<title>jQuery</title>
+		<link rel = "stylesheet" type = "text/css" href = "css/singularity.css"/>
+		<script type= "text/javascript" src = "jquery/jQuery.js"></script>
+		<script type = "text/javascript" src = "jquery/singularity.js"></script>
+		<!--<meta name ="viewport" content="width=device-width,initial-scale=1.0">-->
 
 
-</head>
+	</head>
 
 
-<body id ="bg">
-<div id ="magic">
-<div id = "texture_background"></div>
-</div>
-<div id = "menu_bar"><span class ="menu_item" id = "item"><ul id="menulist"><li id="about">About</li><li id="impact">Impact</li><li id="programs">Programs</li><li id="faculty">Faculty</li><li id="sulabs">SU Labs</li><li id ="singularityhub">Singularity Hub</li><li id="global">Global Community</li></ul><div id="support">Support SU</div></span></div><div id=img_container><div id=img_logo>
-</div>
+	<body id ="gray_background_innermost">
+	
+	
+		<div id ="div_colored_background">
+		   <div id = "texture_background">
+		 
+		 
+           </div>
+		</div>
+		<!--logo-->
+	
+		<div id="div_img_container"><div id="singularity_img_logo"></div></div>
+		
+		<!--menu bar and dropdown menus-->
+		<div class = "menu_bar">	
+		  
+			<div class ="div_menu_items">
+			<ul>
+				<li id="about">About
+				
+					<div class="dropdown_about">
+						<a href="#">What is Singularity University?</a>
+						<a href="#">Global Grand Challenges</a>
+						<a href="#">Our Impact</a>
+						<a href="#">Our Team</a>
+						<a href="#">Founders</a>
+						<a href="#">Partners and Sponsors</a>
+						<a href ="#">Contact and Directors</a>
+						<a href="#">Careers</a>
+						<a href="#">Media Room</a>
+						<a href="#">Frequently Asked Questions</a>
+					</div>
+					
+				</li>
+				
+				
+				
+				<li id="impact">Impact
+				
+					<div class="dropdown_impact">
+						<a href = "#">Our Impact</a>
+						<a href ="#">Diversity Inclusion</a>
+						<a href="#">Impact Challenge</a>
+						<a href="#">Youth Engagement</a>
+					<div>
+				
+				</li>
+				
+				
+				
+				<li id="programs">Programs
+				
+					<div class="dropdown_programs">
+						<a href="#">Custom Programs</a>
+						<a href="#">Executive Programs</a>
+						<a href="#">Exponential Conference Series</a>
+						<a href="#">Exponential Manufacturing</a>
+						<a href="#">Exponential Finance</a>
+						<a href="#">Exponential Medicine</a>
+						<a href="#">Global Solutions Program</a>
+						<a href="#">Global Summit</a>
+						<a href="#">Innovation Partnership Program</a>
+						<a href="#">Sponsorships</a>
+				    </div>
+			
+				</li>
+				
+				<li id="faculty">Faculty
+				
+					<div class ="dropdown_faculty">
+					    <a href="#">Core Faculty</a>
+					</div>
+				
+				</li>
+				
+		
+				<li id="sulabs">SU Labs
+				
+					<div class="dropdown_sulabs">
+						<a href="#">About</a>
+						<a href="#">SciFi D.I. Workshop</a>
+						<a href="#">Startup Lab</a>
+					</div>
+				
+				</li>
+				
+				
+				<li id="singuhub">Singularity Hub
+				
+					<div class="dropdown_singularity">
+						<a href="#">GET THE LATEST SCI/TECH NEWS</a><hr>
+						<a href="#" id="sin_hub">Go to Singularity Hub</a>
+					</div>
+			 
+				</li>
+				
+				
+				<li id="global">Global Community
+				
+					<div class="dropdown_global">
+						<a href="#">SingularityU Global</a>
+						<a href="#">Global Impact Competitions</a>
+						<a href="#">Startup Lab</a>
+					</div>
+				
+				</li>
+		
+		    </ul>
+			</div>
+		</div>
+		
+		<!--support button-->
+		<div id="support">Support SU</div>
+			
+		
+         
+		 
+		
+	    	
+     <!--text section-->
+	 
+	    <!--<div id="text_singularity_uni"><p>What is Singularity University?</p></div><br>-->
+	   
+	    <!--<div id = "text_lines_moto"><p>Our mission is to educate,inspire and empower leaders to apply exponential technologies to address humanity's grand challenges.</p></div><br>
+	   
+	    <div id="text_quote"><p><q><em>CEOs are desperate to know this stuff.Everyone's trying to figure out what's coming next.</em></q></p></div><br>
+	   
+	    <div id="div_text_Mike"><p>__</p><br><p id ="text_Mike">Mike Federle, COO<br>Forbes Media</p></div>-->
+	 	
+     <!--submit bar-->
+	    <!--<div id="submit_bar">
+			<p id="text_submitbar">Keep up to speed with SU News</p><input type="text" name="textbar" placeholder="  Email">
+			<div id="button_submit">Submit</div>
+		</div>-->
+		
+     <!--upcoming events bar-->
+	   <!-- <div id="upcoming_bar">-->
+		
+		    <!--upcoming bar text-->
+		    <!--<p id="text_upcoming">UPCOMING PROGRAMS</p><p id="text_seeall">See all ></p>-->
+			
+			<!--upcoming bar images-->
+			
+				<!--image germany-->
+				<!--<div id="div_image_germany"><img src="images/germany.jpg" id = "image_germany" alt="An image for depicting Germany"><p id="text_image_germany">SingularityU<br>Germany Summit</p><p id="text_register_germany">Register Today!</p></div>-->
+				
+				<!--image chile-->
+				<!--<div id="div_image_chile"><img src="images/chile.jpg" id="chile" alt="An image depicting Chile"><p id="text_image_chile">SingularityU<br>Chile Summit</p><p id="text_register_chile">Register Today!</p></div>-->
+				
+				<!--image executive program-->
+				<!--<div id="div_image_executiveprogram"><img src="images/executiveprogram.jpg" id="image_executive" alt="An image for singularity university executive programs"><p id="text_image_executive">Executive Program</p><p id="text_register_executive">Apply Today!</p></div>-->
+				
+				<!--image singularity hub-->
+				<!--<div id="div_image_singularityhub"><img src="images/singularityhub.jpg" id="image_singularity_hub" alt="An image for singularity university singularity hub."><p id="text_image_singularity">Check out the New<br>Singularity Hub...</p><p id="text_register_singularity">Even more discussions,stories<br>and topics.</p></div>
 
-<div id="dropdown_about"><ul id="captions"><li>What is Singularity University?</li><br><br><li>Global Grand Challenges</li><br><br><li>Our Impact</li><br><br><li>Our Team</li><br><br><li>Founders</li><br><br><li>Partners and Sponsors</li><br><br><li>Contact and Directors</li><br><br><li>Careers</li><br><br><li>Media Room</li><br><br><li>Frequently Asked Questions</li></ul></div>
+        </div>
+	
+	
+	
+        <!--initiatives bar-->
 
-
-<div id="dropdown_impact"><ul id="captions1"><li>Our Impact</li><br><br><li>Diversity Inclusion</li><br><br><li>Impact Challenge</li><br><br><li>Youth Engagement</li></ul></div>
-
-
-<div id="dropdown_programs"><ul id="captions2"><li>Custom Programs</li><br><br><li>Executive Programs</li><br><br><li>Exponential Conference Series</li><br><br><li>Exponential Manufacturing</li><br><br><li>Exponential Finance</li><br><br><li>Exponential Medicine</li><br><br><li>Global SOlutions Program</li><br><br><li>Global Summit</li><br><br><li>Innovation Partnership Program</li><br><br><li>Sponsorships</li></ul></div>
-
-
-<div id ="dropdown_faculty"><ul id="captions3"><li>Core Faculty</li></div>
-
-
-<div id="dropdown_sulabs"><ul id="captions4"><li>About</li><br><br><li>SciFi D.I. Workshop</li><br><br><li>Startup Lab</li></ul></div>
-
-
-<div id="dropdown_singularity"><ul id="captions5"><li>GET THE LATEST SCI/TECH NEWS</li><hr><br><br><li>Go to SIngularity Hub</li></ul></div>
-
-
-<div id="dropdown_global"><ul id="captions6"><li>SingularityU Global</li><br><br><li>Global Impact Competitions</li><br><br><li>Startup Lab</li></ul></div>
-
-<div id="para1"><p>What is Singularity University?</p></div><br>
-<div id = "para2"><p>Our mission is to educate,inspire and empower leaders to apply exponential technologies to address humanity's grand challenges.</p></div><br>
-<div id="para3"><p><q><i>CEOs are desperate to know this stuff.Everyone's trying to figure out what's coming next.</i></q></p></div><br>
-<div id="para4"><p>__</p><br><p id ="a">Mike Federle, COO<br>Forbes Media</p></div>
-
-<div id="submit_bar"><p id="b">Keep up to speed with SU News</p><input type="text" name="textbar" placeholder="  Email"><div id="button">Submit</div></div>
-
-<div id="upcoming"><p id="c">UPCOMING PROGRAMS</p><p id="d">See all ></p></div>
-<div id="img1"><img src="germany.jpg" id = "germany"/></div><div id="img2"><img src="chile.jpg" id="chile"/></div><div id="img3"><img src="executiveprogram.jpg" id="executive"/></div><div id="img4"><img src="singularityhub.jpg" id="singularity_hub"/>
-
-<p id="e">SingularityU<br>Germany Summit</p><p id="f">Register Today!</p>
-<p id="g">SingularityU<br>Chile Summit</p><p id="h">Register Today!</p>
-<p id="ip">Executive Program</p><p id="jp">Apply Today!</p>
-<p id="k">Check out the New<br>Singularity Hub...</p><p id="l">Even more discussions,stories<br>and topics.</p>
-
-
-<div id="initiative"><p id = "m">INITIATIVES</p></div>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-
-<div id="facultyandspeakers"><p id="n">FACULTY AND SPEAKERS</p></div>
-<div id="events"><p id="o">EVENTS</p><p id="qi">See all></p></div>
+		<!--<div id="initiatives_bar"><p id = "text_initiatives">INITIATIVES</p></div>
+		<div></div><br>
+		<div></div><br>
+		<div></div><br>
+		<div></div><br>
+		<div></div>
+	
+		<div id="facultyandspeakers_bar"><p id="text_facultyandspeakers">FACULTY AND SPEAKERS</p></div>
+		
+		
+		
+		
+		<div id="events_bar"><p id="text_events">EVENTS</p><p id="qi">See all></p></div>-->
 
 
 
@@ -79,8 +203,6 @@
 
 
 
-</div>
-</div>
-</body>
+	</body>
 
 </html>

@@ -1,39 +1,68 @@
 
 $(document).ready(function(){	
-	// $("li#about").mouseover(function(){
+	$("#about").hover(function(){
 		
 		
-		// $("#dropdown_about").css("visibility","visible");
+		 $(".dropdown_about").css("display","block");
+		 
+		
+	 });
+	$("#about").mouseleave(function(){
 		
 		
-	// });
-	
+		 $(".dropdown_about").css("display","none");
+		 
+		
+	 });
 
+	 
+	 
 
 
 
 	$("#impact").hover(function(){
 		
-		
-		$("#dropdown_impact").css("visibility","visible");
+		$(".dropdown_impact").css("display","block");
 		
 		
 	});
 
-
+	$("#impact").mouseleave(function(){
+		
+		
+		 $(".dropdown_impact").css("display","none");
+		 
+		
+	 });
+	 
 	$("#programs").hover(function(){
 		
 		
-		$("#dropdown_programs").css("visibility","visible");
+		$(".dropdown_programs").css("display","block");
 		
 		
 	});
 
-
+	$("#programs").mouseleave(function(){
+		
+		
+		$(".dropdown_programs").css("display","none");
+		
+		
+	});
+	
 	$("#faculty").hover(function(){
 		
 		
-		$("#dropdown_faculty").css("visibility","visible");
+		$(".dropdown_faculty").css("display","block");
+		
+		
+	});
+	
+	$("#faculty").mouseleave(function(){
+		
+		
+		$(".dropdown_faculty").css("display","none");
 		
 		
 	});
@@ -42,16 +71,31 @@ $(document).ready(function(){
 	$("#sulabs").hover(function(){
 		
 		
-		$("#dropdown_sulabs").css("visibility","visible");
+		$(".dropdown_sulabs").css("display","block");
+		
+		
+	});
+    
+	$("#sulabs").mouseleave(function(){
+		
+		
+		$(".dropdown_sulabs").css("display","none");
 		
 		
 	});
 
-
-	$("#singularityhub").hover(function(){
+	$("#singuhub").hover(function(){
 		
 		
-		$("#dropdown_singularity").css("visibility","visible");
+		$(".dropdown_singularity").css("display","block");
+		
+		
+	});
+ 
+ 	$("#singuhub").mouseleave(function(){
+		
+		
+		$(".dropdown_singularity").css("display","none");
 		
 		
 	});
@@ -60,7 +104,15 @@ $(document).ready(function(){
 	$("#global").hover(function(){
 		
 		
-		$("#dropdown_global").css("visibility","visible");
+		$(".dropdown_global").css("display","block");
+		
+		
+	});
+	
+	$("#global").mouseleave(function(){
+		
+		
+		$(".dropdown_global").css("display","none");
 		
 		
 	});
