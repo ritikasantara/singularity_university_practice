@@ -597,17 +597,17 @@ input{
 #text_initiatives{
 	color:#566573;
 	font-family:calibri;
-	font-size:20px;
+	font-size:18px;
 	float:left;
 	font-weight:bold;
 	margin-left:10px;
-	line-height:12px;
+	line-height:14px;
 
 }
 #facultyandspeakers_bar{
 	margin-top:18px;
-	margin-left:517px;
-	width:240px;
+	margin-left:516px;
+	width:244px;
 	height:57px;
 	background-color:#E0E0F8;
 	
@@ -626,21 +626,21 @@ input{
 #text_facultyandspeakers{
 	color:#566573;
 	font-family:calibri;
-	font-size:20px;
+	font-size:18px;
 	float:left;
 	font-weight:bold;
 	margin-left:10px;
-	line-height:12px;
+	line-height:14px;
 
 }
 #text_events{
 	color:#566573;
 	font-family:calibri;
-	font-size:20px;
+	font-size:18px;
 	float:left;
 	font-weight:bold;
 	margin-left:10px;
-	line-height:12px;
+	line-height:14px;
 
 }
 #events_seeall{
@@ -649,16 +649,16 @@ input{
 	font-family:calibri;
 	font-size:15px;
 	margin-left:175px;
-	line-height:25px;
+	line-height:49px;
 }
 
 .initiative_program_bars{
 
 	width: 485px;
-	height:700px;
+	height:600px;
 	float: left;
 	display: block;
-	background-color: #c0788b;
+	background-color: #c68596;
 	margin-left: 20px;
 	margin-top: 30px;
 
@@ -677,8 +677,7 @@ input{
 	font-family:calibri light;
 	margin-left: 10px;
 	margin-top: 60px;
-	font-size: 22px;
-	padding-top: 2px;
+	font-size: 21px;
     float: left;
 }
 
@@ -686,9 +685,9 @@ input{
 
 	font-family:calibri light;
 	margin-left: 10px;
-	margin-top: 30px;
+	margin-top: 0px;
 	font-size: 17px;
-	margin-top: -10px;
+	
     float: left;
 	
 }
@@ -711,21 +710,599 @@ input{
 
 }
 
+#SU_labs_bar{
+
+	height: 80px;
+	color: white;
+	padding-bottom: 20px;
+	margin-top: -7px;
+    
+}
+
+#text_SU_labs_1{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 10px;
+	font-size: 22px;
+	
+    float: left;
+}
+
+#text_SU_labs_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 55px;
+	font-size: 17px;
+	position: absolute;
+    float: left;
+	
+}
+
+#SU_labs_bar a{
+    text-decoration: none;
+    color: white;
+}
+
+#SU_labs_bar:hover{
+
+    background-color: #d09ba9;
+
+
+}
+
+#SU_labs_hr{
+ width:483px;
+ color:white;
+ margin-top:0;
+
+}
+
+#SU_alumni_bar{
+
+	height: 80px;
+	color: white;
+	padding-bottom: 20px;
+	margin-top: -7px;
+    
+}
+
+#text_SU_alumni_1{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 10px;
+	font-size: 22px;
+	
+    float: left;
+}
+
+#text_SU_alumni_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 55px;
+	font-size: 17px;
+	position: absolute;
+    float: left;
+	
+}
+
+#SU_alumni_bar a{
+    text-decoration: none;
+    color: white;
+}
+
+#SU_alumni_bar:hover{
+
+    background-color: #d09ba9;
+
+
+}
+
+#SU_alumni_hr{
+ width:483px;
+ color:white;
+ margin-top:0;
+
+}
+
+#SU_hub_bar{
+
+	height: 80px;
+	color: white;
+	padding-bottom: 20px;
+	margin-top: -7px;
+    
+}
+
+#text_SU_hub_1{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 10px;
+	font-size: 22px;
+	
+    float: left;
+}
+
+#text_SU_hub_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 55px;
+	font-size: 17px;
+	position: absolute;
+    float: left;
+	
+}
+
+#SU_hub_bar a{
+    text-decoration: none;
+    color: white;
+}
+
+#SU_hub_bar:hover{
+
+    background-color: #d09ba9;
+
+
+}
+
+#SU_hub_hr{
+ width:483px;
+ color:white;
+ margin-top:0;
+
+}
+
+#innovation_partnership_bar{
+
+	height: 93px;
+	color: white;
+	padding-bottom: 20px;
+	margin-top: -7px;
+    
+}
+
+#text_innovation_bar_1{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 10px;
+	font-size: 22px;
+    float: left;
+}
+
+#text_innovation_bar_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 55px;
+	font-size: 17px;
+	position: absolute;
+    float: left;
+	
+}
+
+#innovation_partnership_bar a{
+    text-decoration: none;
+    color: white;
+}
+
+#innovation_partnership_bar:hover{
+
+    background-color: #d09ba9;
+
+
+}
+
+.events_program_bars{
+
+	width: 240px;
+	height:406px;
+	float: right;
+	display: block;
+	background-color: #72bcd4;
+	margin-left: 770px;
+    position:absolute;
+    
+}
+
+#june_7_bar{
+
+	height: 55px;
+	color: white;
+	padding-bottom: 28px;
+	margin-bottom: -10px;
+}
+
+#text_june_7_1{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 2px;
+	font-size: 21px;
+    float: left;
 
 
 
+}
+
+#text_june_7_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 29px;
+	font-size: 17px;
+	position: absolute;
+    float: left;
+
+}
+
+#june_7_bar a{
+
+    text-decoration: none;
+    color: white;
+}
+
+#june_7_bar:hover{
+
+    background-color: #adcfe6;
+
+}
+
+#june_20_bar{
+
+	height: 55px;
+	color: white;
+	padding-bottom: 25px;
+	margin-top: -8px;
+    margin-bottom: -9px;
+}
+
+#text_june_20_1{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 2px;
+	font-size: 21px;
+    float: left;
+
+}
+
+#text_june_20_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 29px;
+	font-size: 17px;
+	position: absolute;
+    float: left;
+
+}
+
+#june_20_bar a{
+
+    text-decoration: none;
+    color: white;
+}
+
+#june_20_bar:hover{
+
+    background-color: #adcfe6;
+
+}
+#june_24_bar{
+
+	height: 55px;
+	color: white;
+	padding-bottom: 25px;
+	margin-top: 0px;
+	margin-top: -8px;
+    margin-bottom: -9px;
+}
+
+#text_june_24_1{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 2px;
+	font-size: 21px;
+    float: left;
 
 
 
+}
+
+#text_june_24_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 29px;
+	font-size: 17px;
+	position: absolute;
+    float: left;
+
+}
+
+#june_24_bar a{
+
+    text-decoration: none;
+    color: white;
+}
+
+#june_24_bar:hover{
+
+    background-color: #adcfe6;
+
+}
+
+#august_28_bar{
+
+	height: 55px;
+	color: white;
+	padding-bottom: 25px;
+	margin-top: 0px;
+	margin-top: -8px;
+    margin-bottom: -9px;
+}
+
+#text_august_28_1{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 2px;
+	font-size: 21px;
+    float: left;
 
 
 
+}
+
+#text_august_28_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 29px;
+	font-size: 17px;
+	position: absolute;
+    float: left;
+
+}
+
+#august_28_bar a{
+
+    text-decoration: none;
+    color: white;
+}
+
+#august_28_bar:hover{
+
+    background-color: #adcfe6;
+
+}
+
+#september_25_bar{
+
+	height: 55px;
+	color: white;
+	padding-bottom: 25px;
+	margin-top: -8px;
+    margin-bottom: -9px;
+}
+
+#text_september_25_1{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 2px;
+	font-size: 21px;
+    float: left;
 
 
 
+}
+
+#text_september_25_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 29px;
+	font-size: 17px;
+	position: absolute;
+    float: left;
+
+}
+
+#september_25_bar a{
+
+    text-decoration: none;
+    color: white;
+}
+
+#september_25_bar:hover{
+
+    background-color: #adcfe6;
+    background-color: #adcfe6;
+
+}
+
+#null_bar1{
+	margin-top:557px;
+	margin-left:20px;
+	width:485px;
+	height:10px;
+	background-color:#E0E0F8;
+	position:absolute;
+	
+}
+
+#null_bar2{
+	margin-top:407px;
+	margin-left:770px;
+	width:240px;
+	height:10px;
+	background-color:#E0E0F8;
+	position: absolute;
+}
+
+#news_bar{
+
+	margin-top:587px;
+	margin-left:20px;
+	width:485px;
+	height:570px;
+	background-color:#E0E0F8;
+	position: absolute;
+
+}
+
+#text_news_bar1{
+
+	color:#566573;
+	font-family:calibri;
+	font-size:18px;
+	float:left;
+	font-weight:bold;
+	margin-left:10px;
+	line-height:14px;
+    
+
+}
+
+#text_news_bar2{
+
+	color:#566573;
+	font-family:calibri light;
+	font-size:15px;
+	float:right;
+	font-weight:bold;
+	margin-right:15px;
+	line-height:18px;
 
 
+}
+
+.singularity_university_news{
+
+	width: 485px;
+	height:1000px;
+	float: left;
+	display: block;
+	background-color: #E0E0F8;
+	margin-left: 20px;
+	margin-top: 620px;
+    position:absolute;
 
 
+}
+
+#artificial_intelligence_news{
+
+	height: 150px;
+	color: #566573;
+	padding-bottom: 25px;
+    margin-top:-20px;
+	
+}
+
+#text_artificial_intelligence_news_1{
+
+	font-family:calibri;
+	margin-left: 10px;
+	margin-top: 50px;
+	font-size: 21px;
+    float: left;
+	color: #566573;
+}
+
+#text_artificial_intelligence_news_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -8px;
+	font-size: 15px;
+	font-weight: bold;
+    float: left;
+	color: #566573;
+}
+
+#text_artificial_intelligence_news_3{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -3px;
+	font-size: 14px;
+    float: left;
+	color: #566573;
+	
+}
 
 
+#artificial_intelligent_news a{
+    text-decoration: none;
+    
+}
+
+#text_artificial_intelligence_news_1:hover{
+
+    color:#020708;
+
+
+}
+
+#artificial_intelligence_news{
+
+	height: 150px;
+	color: #566573;
+	padding-bottom: 25px;
+    margin-top:-20px;
+	
+}
+
+#text_artificial_intelligence_news_1{
+
+	font-family:calibri;
+	margin-left: 10px;
+	margin-top: 50px;
+	font-size: 21px;
+    float: left;
+	color: #566573;
+}
+
+#text_artificial_intelligence_news_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -8px;
+	font-size: 15px;
+	font-weight: bold;
+    float: left;
+	color: #566573;
+}
+
+#text_artificial_intelligence_news_3{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -3px;
+	font-size: 14px;
+    float: left;
+	color: #566573;
+	
+}
+
+
+#artificial_intelligent_news a{
+    text-decoration: none;
+    
+}
+
+#text_artificial_intelligence_news_1:hover{
+
+    color:#020708;
+
+
+}

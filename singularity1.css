@@ -1,0 +1,447 @@
+
+.singularity_university_news{
+
+	width: 485px;
+	height:1600px;
+	float: left;
+	display: block;
+	background-color: #E0E0F8;
+	margin-left: 20px;
+	margin-top: 620px;
+    position:absolute;
+
+
+}
+
+#artificial_intelligence_news{
+
+	height: 150px;
+	color: #566573;
+	padding-bottom: 25px;
+    margin-top:-20px;
+	
+}
+
+#text_artificial_intelligence_news_1{
+
+	font-family:calibri;
+	margin-left: 10px;
+	margin-top: 50px;
+	font-size: 21px;
+    float: left;
+	color: #566573;
+}
+
+#text_artificial_intelligence_news_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -8px;
+	font-size: 15px;
+	font-weight: bold;
+    float: left;
+	color: #566573;
+}
+
+#text_artificial_intelligence_news_3{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -3px;
+	font-size: 14px;
+    float: left;
+	color: #566573;
+	
+}
+
+
+#artificial_intelligent_news a{
+    text-decoration: none;
+    
+}
+
+#text_artificial_intelligence_news_1:hover{
+
+    color:#020708;
+
+
+}
+
+
+
+#metamason_news{
+
+	height: 150px;
+	color: #566573;
+	padding-bottom: 25px;
+    margin-top:-20px;
+	
+}
+
+#text_metamason_1{
+
+	font-family:calibri;
+	margin-left: 10px;
+	margin-top: 50px;
+	font-size: 21px;
+    float: left;
+	color: #566573;
+}
+
+#text_metamason_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -8px;
+	font-size: 15px;
+	font-weight: bold;
+    float: left;
+	color: #566573;
+}
+
+#text_metamason_3{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -3px;
+	font-size: 14px;
+    float: left;
+	color: #566573;
+	
+}
+
+
+#metamason_news a{
+    text-decoration: none;
+    
+}
+
+#text_metamason_1:hover{
+
+    color:#020708;
+
+
+}
+
+#thrillist_news{
+
+	height: 150px;
+	color: #566573;
+	padding-bottom: 25px;
+    margin-top:-20px;
+	
+}
+
+#text_thrillist_news_1{
+
+	font-family:calibri;
+	margin-left: 10px;
+	margin-top: 50px;
+	font-size: 21px;
+    float: left;
+	color: #566573;
+}
+
+#text_thrillist_news_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -8px;
+	font-size: 15px;
+	font-weight: bold;
+    float: left;
+	color: #566573;
+}
+
+#text_thrillist_news_3{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -3px;
+	font-size: 14px;
+    float: left;
+	color: #566573;
+	
+}
+
+
+#thrillist_news a{
+    text-decoration: none;
+    
+}
+
+#text_thrillist_news_1:hover{
+
+    color:#020708;
+
+
+}
+
+
+
+#moonshot_ideas_news{
+
+	height: 150px;
+	color: #566573;
+	padding-bottom: 25px;
+    margin-top:-20px;
+	
+}
+
+#text_moonshot_ideas_news_1{
+
+	font-family:calibri;
+	margin-left: 10px;
+	margin-top: 50px;
+	font-size: 21px;
+    float: left;
+	color: #566573;
+}
+
+#text_moonshot_ideas_news_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -8px;
+	font-size: 15px;
+	font-weight: bold;
+    float: left;
+	color: #566573;
+}
+
+#text_moonshot_ideas_news_3{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -3px;
+	font-size: 14px;
+    float: left;
+	color: #566573;
+	
+}
+
+
+#moonshot_ideas_news a{
+    text-decoration: none;
+    
+}
+
+#text_moonshot_ideas_news_1:hover{
+
+    color:#020708;
+
+
+}
+
+#network_society_news{
+
+	height: 150px;
+	color: #566573;
+	padding-bottom: 25px;
+    margin-top:-20px;
+	
+}
+
+#text_network_society_news_1{
+
+	font-family:calibri;
+	margin-left: 10px;
+	margin-top: 50px;
+	font-size: 21px;
+    float: left;
+	color: #566573;
+}
+
+#text_network_society_news_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -8px;
+	font-size: 15px;
+	font-weight: bold;
+    float: left;
+	color: #566573;
+}
+
+#text_network_society_news_3{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -3px;
+	font-size: 14px;
+    float: left;
+	color: #566573;
+	
+}
+
+
+#network_society_news a{
+    text-decoration: none;
+    
+}
+
+#text_network_society_news_1:hover{
+
+    color:#020708;
+
+
+}
+
+#peter_diamandis_news{
+
+	height: 150px;
+	color: #566573;
+	padding-bottom: 25px;
+    margin-top:-20px;
+	
+}
+
+#text_peter_diamandis_news_1{
+
+	font-family:calibri;
+	margin-left: 10px;
+	margin-top: 50px;
+	font-size: 21px;
+    float: left;
+	color: #566573;
+}
+
+#text_peter_diamandis_news_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -8px;
+	font-size: 15px;
+	font-weight: bold;
+    float: left;
+	color: #566573;
+}
+
+#text_peter_diamandis_news_3{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -3px;
+	font-size: 14px;
+    float: left;
+	color: #566573;
+	
+}
+
+
+#peter_diamandis_news a{
+    text-decoration: none;
+    
+}
+
+#text_peter_diamandis_news_1:hover{
+
+    color:#020708;
+
+}
+
+#partnership_news{
+
+	height: 150px;
+	color: #566573;
+	padding-bottom: 25px;
+    margin-top:-20px;
+	
+}
+
+#text_partnership_news_1{
+
+	font-family:calibri;
+	margin-left: 10px;
+	margin-top: 50px;
+	font-size: 21px;
+    float: left;
+	color: #566573;
+}
+
+#text_partnership_news_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -8px;
+	font-size: 15px;
+	font-weight: bold;
+    float: left;
+	color: #566573;
+}
+
+#text_partnership_news_3{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -3px;
+	font-size: 14px;
+    float: left;
+	color: #566573;
+	
+}
+
+
+#partnership_news a{
+    text-decoration: none;
+    
+}
+
+#text_partnership_news_1:hover{
+
+    color:#020708;
+
+}
+
+#calorie_cloud_news{
+
+	height: 150px;
+	color: #566573;
+	padding-bottom: 25px;
+    margin-top:-20px;
+	
+}
+
+#text_calorie_cloud_news_1{
+
+	font-family:calibri;
+	margin-left: 10px;
+	margin-top: 50px;
+	font-size: 21px;
+    float: left;
+	color: #566573;
+}
+
+#text_calorie_cloud_news_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -8px;
+	font-size: 15px;
+	font-weight: bold;
+    float: left;
+	color: #566573;
+}
+
+#text_calorie_cloud_news_3{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -3px;
+	font-size: 14px;
+    float: left;
+	color: #566573;
+	
+}
+
+
+#calorie_cloud_news a{
+    text-decoration: none;
+    
+}
+
+#text_calorie_cloud_news_1:hover{
+
+    color:#020708;
+
+}
