@@ -190,6 +190,7 @@
 	position:absolute;
 	top: 51px;
 	left: 210px;
+	z-index:1;
 }
 .dropdown_programs a{
 	font-family:calibri;
@@ -385,13 +386,12 @@
 	color:#4e4e4e;
 }
 input{
-	margin-top:-57px;
-	margin-left:390px;
-	line-height:-5px;
+	margin-top:-14px;
+	margin-left:10px;
 	width:382px;
 	height:32px;
-	position:absolute;
-
+	position: relative;
+    z-index:0;
 }
 
 #button_submit{
@@ -1181,128 +1181,6 @@ input{
 	font-weight:bold;
 	margin-right:15px;
 	line-height:18px;
-
-
-}
-
-.singularity_university_news{
-
-	width: 485px;
-	height:1000px;
-	float: left;
-	display: block;
-	background-color: #E0E0F8;
-	margin-left: 20px;
-	margin-top: 620px;
-    position:absolute;
-
-
-}
-
-#artificial_intelligence_news{
-
-	height: 150px;
-	color: #566573;
-	padding-bottom: 25px;
-    margin-top:-20px;
-	
-}
-
-#text_artificial_intelligence_news_1{
-
-	font-family:calibri;
-	margin-left: 10px;
-	margin-top: 50px;
-	font-size: 21px;
-    float: left;
-	color: #566573;
-}
-
-#text_artificial_intelligence_news_2{
-
-	font-family:calibri light;
-	margin-left: 10px;
-	margin-top: -8px;
-	font-size: 15px;
-	font-weight: bold;
-    float: left;
-	color: #566573;
-}
-
-#text_artificial_intelligence_news_3{
-
-	font-family:calibri light;
-	margin-left: 10px;
-	margin-top: -3px;
-	font-size: 14px;
-    float: left;
-	color: #566573;
-	
-}
-
-
-#artificial_intelligent_news a{
-    text-decoration: none;
-    
-}
-
-#text_artificial_intelligence_news_1:hover{
-
-    color:#020708;
-
-
-}
-
-#artificial_intelligence_news{
-
-	height: 150px;
-	color: #566573;
-	padding-bottom: 25px;
-    margin-top:-20px;
-	
-}
-
-#text_artificial_intelligence_news_1{
-
-	font-family:calibri;
-	margin-left: 10px;
-	margin-top: 50px;
-	font-size: 21px;
-    float: left;
-	color: #566573;
-}
-
-#text_artificial_intelligence_news_2{
-
-	font-family:calibri light;
-	margin-left: 10px;
-	margin-top: -8px;
-	font-size: 15px;
-	font-weight: bold;
-    float: left;
-	color: #566573;
-}
-
-#text_artificial_intelligence_news_3{
-
-	font-family:calibri light;
-	margin-left: 10px;
-	margin-top: -3px;
-	font-size: 14px;
-    float: left;
-	color: #566573;
-	
-}
-
-
-#artificial_intelligent_news a{
-    text-decoration: none;
-    
-}
-
-#text_artificial_intelligence_news_1:hover{
-
-    color:#020708;
 
 
 }
