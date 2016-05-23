@@ -1,0 +1,778 @@
+
+.singularity_university_news{
+
+	width: 485px;
+	height:1345px;
+	float: left;
+	display: block;
+	background-color: #E0E0F8;
+	margin-left: 20px;
+	margin-top: 620px;
+    position:absolute;
+
+
+}
+
+#artificial_intelligence_news{
+
+	height: 150px;
+	color: #566573;
+	padding-bottom: 25px;
+    margin-top:-20px;
+	
+}
+
+#text_artificial_intelligence_news_1{
+
+	font-family:calibri;
+	margin-left: 10px;
+	margin-top: 50px;
+	font-size: 21px;
+    float: left;
+	color: #566573;
+}
+
+#text_artificial_intelligence_news_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -8px;
+	font-size: 15px;
+	font-weight: bold;
+    float: left;
+	color: #566573;
+}
+
+#text_artificial_intelligence_news_3{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -3px;
+	font-size: 14px;
+    float: left;
+	color: #566573;
+	
+}
+
+
+#artificial_intelligent_news a{
+    text-decoration: none;
+    
+}
+
+#text_artificial_intelligence_news_1:hover{
+
+    color:#020708;
+
+
+}
+
+
+
+#metamason_news{
+
+	height: 130px;
+	color: #566573;
+	padding-bottom: 25px;
+    margin-top:-20px;
+	
+}
+
+#text_metamason_1{
+
+	font-family:calibri;
+	margin-left: 10px;
+	margin-top: 20px;
+	font-size: 21px;
+    float: left;
+	color: #566573;
+}
+
+#text_metamason_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -8px;
+	font-size: 15px;
+	font-weight: bold;
+    float: left;
+	color: #566573;
+}
+
+#text_metamason_3{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -3px;
+	font-size: 14px;
+    float: left;
+	color: #566573;
+	
+}
+
+
+#metamason_news a{
+    text-decoration: none;
+    
+}
+
+#text_metamason_1:hover{
+
+    color:#020708;
+
+
+}
+
+#thrillist_news{
+
+	height: 137px;
+	color: #566573;
+	padding-bottom: 25px;
+    margin-top:-20px;
+	
+}
+
+#text_thrillist_news_1{
+
+	font-family:calibri;
+	margin-left: 10px;
+	margin-top: 20px;
+	font-size: 21px;
+    float: left;
+	color: #566573;
+}
+
+#text_thrillist_news_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -8px;
+	font-size: 15px;
+	font-weight: bold;
+    float: left;
+	color: #566573;
+}
+
+#text_thrillist_news_3{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -3px;
+	font-size: 14px;
+    float: left;
+	color: #566573;
+	
+}
+
+
+#thrillist_news a{
+    text-decoration: none;
+    
+}
+
+#text_thrillist_news_1:hover{
+
+    color:#020708;
+
+
+}
+
+
+
+#moonshot_ideas_news{
+
+	height: 120px;
+	color: #566573;
+	padding-bottom: 25px;
+    margin-top:-20px;
+	
+}
+
+#text_moonshot_ideas_news_1{
+
+	font-family:calibri;
+	margin-left: 10px;
+	margin-top: 20px;
+	font-size: 21px;
+    float: left;
+	color: #566573;
+}
+
+#text_moonshot_ideas_news_2{
+
+	font-family:calibri light;
+	margin-left: -350px;
+	margin-top: 47px;
+	font-size: 15px;
+	font-weight: bold;
+    float: left;
+	color: #566573;
+}
+
+#text_moonshot_ideas_news_3{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -3px;
+	font-size: 14px;
+    float: left;
+	color: #566573;
+	
+}
+
+
+#moonshot_ideas_news a{
+    text-decoration: none;
+    
+}
+
+#text_moonshot_ideas_news_1:hover{
+
+    color:#020708;
+
+
+}
+
+#network_society_news{
+
+	height: 150px;
+	color: #566573;
+	padding-bottom: 25px;
+    margin-top:-20px;
+	
+}
+
+#text_network_society_news_1{
+
+	font-family:calibri;
+	margin-left: 10px;
+	margin-top: 20px;
+	font-size: 21px;
+    float: left;
+	color: #566573;
+}
+
+#text_network_society_news_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -8px;
+	font-size: 15px;
+	font-weight: bold;
+    float: left;
+	color: #566573;
+}
+
+#text_network_society_news_3{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -3px;
+	font-size: 14px;
+    float: left;
+	color: #566573;
+	
+}
+
+
+#network_society_news a{
+    text-decoration: none;
+    
+}
+
+#text_network_society_news_1:hover{
+
+    color:#020708;
+
+
+}
+
+#peter_diamandis_news{
+
+	height: 130px;
+	color: #566573;
+	padding-bottom: 25px;
+    margin-top:-20px;
+	
+}
+
+#text_peter_diamandis_news_1{
+
+	font-family:calibri;
+	margin-left: 10px;
+	margin-top: 20px;
+	font-size: 21px;
+    float: left;
+	color: #566573;
+}
+
+#text_peter_diamandis_news_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -8px;
+	font-size: 15px;
+	font-weight: bold;
+    float: left;
+	color: #566573;
+}
+
+#text_peter_diamandis_news_3{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -3px;
+	font-size: 14px;
+    float: left;
+	color: #566573;
+	
+}
+
+
+#peter_diamandis_news a{
+    text-decoration: none;
+    
+}
+
+#text_peter_diamandis_news_1:hover{
+
+    color:#020708;
+
+}
+
+#partnership_news{
+
+	height: 150px;
+	color: #566573;
+	padding-bottom: 25px;
+    margin-top:-20px;
+	
+}
+
+#text_partnership_news_1{
+
+	font-family:calibri;
+	margin-left: 10px;
+	margin-top: 20px;
+	font-size: 21px;
+    float: left;
+	color: #566573;
+}
+
+#text_partnership_news_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -8px;
+	font-size: 15px;
+	font-weight: bold;
+    float: left;
+	color: #566573;
+}
+
+#text_partnership_news_3{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -3px;
+	font-size: 14px;
+    float: left;
+	color: #566573;
+	
+}
+
+
+#partnership_news a{
+    text-decoration: none;
+    
+}
+
+#text_partnership_news_1:hover{
+
+    color:#020708;
+
+}
+
+#calorie_cloud_news{
+
+	height: 150px;
+	color: #566573;
+	padding-bottom: 25px;
+    margin-top:-20px;
+	
+}
+
+#text_calorie_cloud_news_1{
+
+	font-family:calibri;
+	margin-left: 10px;
+	margin-top: 20px;
+	font-size: 21px;
+    float: left;
+	color: #566573;
+}
+
+#text_calorie_cloud_news_2{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -8px;
+	font-size: 15px;
+	font-weight: bold;
+    float: left;
+	color: #566573;
+}
+
+#text_calorie_cloud_news_3{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: -3px;
+	font-size: 14px;
+    float: left;
+	color: #566573;
+	
+}
+
+
+#calorie_cloud_news a{
+    text-decoration: none;
+    
+}
+
+#text_calorie_cloud_news_1:hover{
+
+    color:#020708;
+
+}
+
+#press_bar{
+	margin-top:2065px;
+	margin-left:20px;
+	width:992px;
+	height:57px;
+	background-color:#E0E0F8;
+	position: relative;
+}
+#text_press_bar1{
+	color:#566573;
+	font-family:calibri;
+	font-size:20px;
+	float:left;
+	font-weight:bold;
+	margin-left:10px;
+	line-height:14px;
+
+}
+#text_press_bar2{
+	color:#566573;
+	font-family:calibri light;
+	font-size:16px;
+	float:right;
+	margin-right: 20px;
+	line-height:24px;
+
+}
+
+.press_program_bars{
+
+	width: 992px;
+	height:508px;
+	float: left;
+	display: block;
+	background-color: #f4a460;
+	margin-left: 20px;
+	margin-top: 0;
+   
+}
+
+#global_challenges_bar{
+   
+	height: 65px;
+	color: #566573;
+	padding-bottom:5px;
+	margin-bottom:-8px;
+}
+
+#text_global_challenges_bar{
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 25px;
+	font-size: 18px;
+    float: left;
+}
+
+
+
+#global_challenges_bar a{
+    text-decoration: none;
+    color: white;
+}
+
+#global_challenges_bar:hover{
+
+    background-color: #f6b278;
+
+}
+
+#global_challenges_bar hr{
+
+ width:991px;
+ color:white;
+ 
+line-height: 100px;
+ margin-left: 0px;
+ position:absolute;
+
+}
+
+#boston_bar{
+	height: 65px;
+	color: #566573;
+	padding-bottom:5px;
+	margin-bottom:-8px;
+	margin-top: -7px;
+    position: relative;
+}
+
+#text_boston_bar{
+
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 22px;
+	font-size: 18px;
+    float: left;
+}
+
+
+
+#boston_bar a{
+    text-decoration: none;
+    color: white;
+}
+
+#boston_bar:hover{
+
+    background-color: #f6b278;
+
+}
+
+#boston_bar hr{
+
+ width:991px;
+ color:white;
+ margin-top:18px;
+ float: left;
+ margin-left: 0px;
+ position:absolute;
+
+}
+
+#netherlands_bar{
+
+	height: 65px;
+	color: #566573;
+	padding-bottom:5px;
+	margin-bottom:-8px;
+	margin-top: -7px;
+    position: relative;
+    
+}
+
+#text_netherlands_bar{
+
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 22px;
+	font-size: 18px;
+    float: left;
+}
+
+
+#netherlands_bar a{
+    text-decoration: none;
+    color: white;
+}
+
+#netherlands_bar:hover{
+
+    background-color: #f6b278;
+
+
+}
+
+#netherlands_bar hr{
+ width:991px;
+ color:white;
+ margin-top:18px;
+ float: left;
+ margin-left: 0px;
+ position:absolute;
+}
+
+
+#south_africa_bar{
+
+	height: 65px;
+	color: #566573;
+	padding-bottom:5px;
+	margin-bottom:-8px;
+	margin-top: -15px;
+    position: relative;
+    
+}
+
+#text_south_africa_bar{
+
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 22px;
+	font-size: 18px;
+    float: left;
+}
+
+
+#south_africa_bar a{
+    text-decoration: none;
+    color: white;
+}
+
+#south_africa_bar:hover{
+
+    background-color: #f6b278;
+
+
+}
+
+#south_africa_bar hr{
+ width:991px;
+ color:white;
+ margin-top:18px;
+ float: left;
+ margin-left: 0px;
+ position:absolute;
+}
+
+#global_solutions_program_bar{
+
+	height: 65px;
+	color: #566573;
+	padding-bottom:5px;
+	margin-bottom:-8px;
+	margin-top: -15px;
+    position: relative;
+    
+}
+
+#text_global_solutions_program_bar{
+
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 22px;
+	font-size: 18px;
+    float: left;
+}
+
+
+#global_solutions_program_bar a{
+    text-decoration: none;
+    color: white;
+}
+
+#global_solutions_program_bar:hover{
+
+    background-color: #f6b278;
+
+
+}
+
+#global_solutions_program_bar hr{
+ width:991px;
+ color:white;
+ margin-top:18px;
+ float: left;
+ margin-left: 0px;
+ position:absolute;
+}
+
+#latin_america_program_bar{
+
+	height: 65px;
+	color: #566573;
+	padding-bottom:5px;
+	margin-bottom:-8px;
+	margin-top: -15px;
+    position: relative;
+    
+}
+
+#text_latin_america_program_bar{
+
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 22px;
+	font-size: 18px;
+    float: left;
+}
+
+
+#latin_america_program_bar a{
+    text-decoration: none;
+    color: white;
+}
+
+#latin_america_program_bar:hover{
+
+    background-color: #f6b278;
+
+
+}
+
+#global_solutions_program_bar hr{
+ width:991px;
+ color:white;
+ margin-top:18px;
+ float: left;
+ margin-left: 0px;
+ position:absolute;
+}
+
+#global_healthcare_bar{
+
+	height: 65px;
+	color: #566573;
+	padding-bottom:5px;
+	margin-bottom:-8px;
+	margin-top: -15px;
+    position: relative;
+    
+}
+
+#text_global_healthcare_bar{
+
+
+	font-family:calibri light;
+	margin-left: 10px;
+	margin-top: 22px;
+	font-size: 18px;
+    float: left;
+}
+
+
+#global_healthcare_bar a{
+    text-decoration: none;
+    color: white;
+}
+
+#global_healthcare_bar:hover{
+
+    background-color: #f6b278;
+
+
+}
