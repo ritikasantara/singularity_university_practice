@@ -1,4 +1,40 @@
+/*singularity university news bar*/
+/*class singularity university news*/
+#news_bar{
 
+	margin-top:587px;
+	margin-left:20px;
+	width:485px;
+	height:570px;
+	background-color:#E0E0F8;
+	position: absolute;
+
+}
+
+#text_news_bar1{
+
+	color:#353f47;
+	font-family:calibri;
+	font-size:18px;
+	float:left;
+	font-weight:bold;
+	margin-left:10px;
+	line-height:14px;
+    
+
+}
+
+#text_news_bar2{
+
+	color:#0b0d0f;
+	font-family:calibri light;
+	font-size:15px;
+	float:right;
+	margin-right:15px;
+	line-height:24px;
+
+
+}
 .singularity_university_news{
 
 	width: 485px;
@@ -13,10 +49,12 @@
 
 }
 
+/*Artificial Intelligence news*/
+
 #artificial_intelligence_news{
 
 	height: 150px;
-	color: #566573;
+	color: #0b0d0f;
 	padding-bottom: 25px;
     margin-top:-20px;
 	
@@ -29,7 +67,7 @@
 	margin-top: 50px;
 	font-size: 21px;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 }
 
 #text_artificial_intelligence_news_2{
@@ -40,7 +78,7 @@
 	font-size: 15px;
 	font-weight: bold;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 }
 
 #text_artificial_intelligence_news_3{
@@ -50,7 +88,7 @@
 	margin-top: -3px;
 	font-size: 14px;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 	
 }
 
@@ -62,19 +100,19 @@
 
 #text_artificial_intelligence_news_1:hover{
 
-    color:#020708;
+    color:#808080;
 
 
 }
 
-
+/*Metamason News*/
 
 #metamason_news{
 
 	height: 130px;
-	color: #566573;
+	color: #0b0d0f;
 	padding-bottom: 25px;
-    margin-top:-20px;
+    margin-top: -20px;
 	
 }
 
@@ -85,7 +123,7 @@
 	margin-top: 20px;
 	font-size: 21px;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 }
 
 #text_metamason_2{
@@ -96,7 +134,7 @@
 	font-size: 15px;
 	font-weight: bold;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 }
 
 #text_metamason_3{
@@ -106,7 +144,7 @@
 	margin-top: -3px;
 	font-size: 14px;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 	
 }
 
@@ -118,15 +156,17 @@
 
 #text_metamason_1:hover{
 
-    color:#020708;
+    color:#808080;
 
 
 }
 
+/*Thrillist News*/
+
 #thrillist_news{
 
 	height: 137px;
-	color: #566573;
+	color: #0b0d0f;
 	padding-bottom: 25px;
     margin-top:-20px;
 	
@@ -139,7 +179,7 @@
 	margin-top: 20px;
 	font-size: 21px;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 }
 
 #text_thrillist_news_2{
@@ -150,7 +190,7 @@
 	font-size: 15px;
 	font-weight: bold;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 }
 
 #text_thrillist_news_3{
@@ -160,7 +200,7 @@
 	margin-top: -3px;
 	font-size: 14px;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 	
 }
 
@@ -172,17 +212,17 @@
 
 #text_thrillist_news_1:hover{
 
-    color:#020708;
+    color:#808080;
 
 
 }
 
-
+/*Moonshot Ideas News*/
 
 #moonshot_ideas_news{
 
 	height: 120px;
-	color: #566573;
+	color: #0b0d0f;
 	padding-bottom: 25px;
     margin-top:-20px;
 	
@@ -195,7 +235,7 @@
 	margin-top: 20px;
 	font-size: 21px;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 }
 
 #text_moonshot_ideas_news_2{
@@ -206,7 +246,7 @@
 	font-size: 15px;
 	font-weight: bold;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 }
 
 #text_moonshot_ideas_news_3{
@@ -216,7 +256,7 @@
 	margin-top: -3px;
 	font-size: 14px;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 	
 }
 
@@ -228,15 +268,17 @@
 
 #text_moonshot_ideas_news_1:hover{
 
-    color:#020708;
+    color:#808080;
 
 
 }
 
+/*Network Security News*/
+
 #network_society_news{
 
 	height: 150px;
-	color: #566573;
+	color: #0b0d0f;
 	padding-bottom: 25px;
     margin-top:-20px;
 	
@@ -249,7 +291,7 @@
 	margin-top: 20px;
 	font-size: 21px;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 }
 
 #text_network_society_news_2{
@@ -260,7 +302,7 @@
 	font-size: 15px;
 	font-weight: bold;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 }
 
 #text_network_society_news_3{
@@ -270,7 +312,7 @@
 	margin-top: -3px;
 	font-size: 14px;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 	
 }
 
@@ -282,15 +324,17 @@
 
 #text_network_society_news_1:hover{
 
-    color:#020708;
+    color:#808080;
 
 
 }
 
+/*Peter Diamandis News*/
+
 #peter_diamandis_news{
 
 	height: 130px;
-	color: #566573;
+	color: #0b0d0f;
 	padding-bottom: 25px;
     margin-top:-20px;
 	
@@ -303,7 +347,7 @@
 	margin-top: 20px;
 	font-size: 21px;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 }
 
 #text_peter_diamandis_news_2{
@@ -314,7 +358,7 @@
 	font-size: 15px;
 	font-weight: bold;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 }
 
 #text_peter_diamandis_news_3{
@@ -324,7 +368,7 @@
 	margin-top: -3px;
 	font-size: 14px;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 	
 }
 
@@ -336,14 +380,16 @@
 
 #text_peter_diamandis_news_1:hover{
 
-    color:#020708;
+    color:#808080;
 
 }
+
+/*Partnership News*/
 
 #partnership_news{
 
 	height: 150px;
-	color: #566573;
+	color: #0b0d0f;
 	padding-bottom: 25px;
     margin-top:-20px;
 	
@@ -356,7 +402,7 @@
 	margin-top: 20px;
 	font-size: 21px;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 }
 
 #text_partnership_news_2{
@@ -367,7 +413,7 @@
 	font-size: 15px;
 	font-weight: bold;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 }
 
 #text_partnership_news_3{
@@ -377,7 +423,7 @@
 	margin-top: -3px;
 	font-size: 14px;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 	
 }
 
@@ -389,14 +435,16 @@
 
 #text_partnership_news_1:hover{
 
-    color:#020708;
+    color:#808080;
 
 }
+
+/*Calorie Cloud News*/
 
 #calorie_cloud_news{
 
 	height: 150px;
-	color: #566573;
+	color: #0b0d0f;
 	padding-bottom: 25px;
     margin-top:-20px;
 	
@@ -409,7 +457,7 @@
 	margin-top: 20px;
 	font-size: 21px;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 }
 
 #text_calorie_cloud_news_2{
@@ -420,7 +468,7 @@
 	font-size: 15px;
 	font-weight: bold;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 }
 
 #text_calorie_cloud_news_3{
@@ -430,7 +478,7 @@
 	margin-top: -3px;
 	font-size: 14px;
     float: left;
-	color: #566573;
+	color: #0b0d0f;
 	
 }
 
@@ -442,12 +490,15 @@
 
 #text_calorie_cloud_news_1:hover{
 
-    color:#020708;
+    color:#808080;
 
 }
 
+/*Press Bar*/
+
+
 #press_bar{
-	margin-top:2065px;
+	margin-top:750px;
 	margin-left:20px;
 	width:992px;
 	height:57px;
@@ -455,7 +506,7 @@
 	position: relative;
 }
 #text_press_bar1{
-	color:#566573;
+	color:#353f47;
 	font-family:calibri;
 	font-size:20px;
 	float:left;
@@ -465,7 +516,7 @@
 
 }
 #text_press_bar2{
-	color:#566573;
+	color:#353f47;
 	font-family:calibri light;
 	font-size:16px;
 	float:right;
@@ -473,6 +524,8 @@
 	line-height:24px;
 
 }
+
+/*Class press bar*/
 
 .press_program_bars{
 
@@ -486,10 +539,12 @@
    
 }
 
+/*Global Challenges Bar*/
+
 #global_challenges_bar{
    
 	height: 65px;
-	color: #566573;
+	color: #353f47;
 	padding-bottom:5px;
 	margin-bottom:-8px;
 }
@@ -527,9 +582,11 @@ line-height: 100px;
 
 }
 
+/*Boston Bar*/
+
 #boston_bar{
 	height: 65px;
-	color: #566573;
+	color: #353f47;
 	padding-bottom:5px;
 	margin-bottom:-8px;
 	margin-top: -7px;
@@ -570,10 +627,12 @@ line-height: 100px;
 
 }
 
+/*Netherlands Bar*/
+
 #netherlands_bar{
 
 	height: 65px;
-	color: #566573;
+	color: #353f47;
 	padding-bottom:5px;
 	margin-bottom:-8px;
 	margin-top: -7px;
@@ -613,11 +672,13 @@ line-height: 100px;
  position:absolute;
 }
 
+/*South Africa Bar*/
+
 
 #south_africa_bar{
 
 	height: 65px;
-	color: #566573;
+	color: #353f47;
 	padding-bottom:5px;
 	margin-bottom:-8px;
 	margin-top: -15px;
@@ -657,10 +718,11 @@ line-height: 100px;
  position:absolute;
 }
 
+/*Global Solutions Program Bar*/
 #global_solutions_program_bar{
 
 	height: 65px;
-	color: #566573;
+	color: #353f47;
 	padding-bottom:5px;
 	margin-bottom:-8px;
 	margin-top: -15px;
@@ -700,10 +762,12 @@ line-height: 100px;
  position:absolute;
 }
 
+/*Latin America Program Bar*/
+
 #latin_america_program_bar{
 
 	height: 65px;
-	color: #566573;
+	color: #353f47;
 	padding-bottom:5px;
 	margin-bottom:-8px;
 	margin-top: -15px;
@@ -743,10 +807,12 @@ line-height: 100px;
  position:absolute;
 }
 
+/*Global Healthcare Bar*/
+
 #global_healthcare_bar{
 
 	height: 65px;
-	color: #566573;
+	color: #353f47;
 	padding-bottom:5px;
 	margin-bottom:-8px;
 	margin-top: -15px;
@@ -777,6 +843,8 @@ line-height: 100px;
 
 }
 
+/*Null Bar*/
+
 #null_bar3{
 	margin-top:509px;
 	margin-left:20px;
@@ -786,3 +854,486 @@ line-height: 100px;
 	position:absolute;
 	
 }
+
+/*Singularity University daily news coverage*/
+/*Daily Coverage bar*/
+
+#daily_coverage_bar{
+
+    width: 495px;
+	margin-right:20px;
+	margin-top: 587px;
+	height:57px;
+	background-color:#E0E0F8;
+    float: right;
+}
+
+
+#text_daily_coverage_bar1{
+	color:#353f47;
+	font-family:calibri;
+	font-size:18px;
+	float:left;
+	font-weight:bold;
+	margin-left:10px;
+	line-height:14px;
+
+}
+#text_daily_coverage_bar2{
+	color:#566573;
+	font-family:calibri;
+	font-size:15px;
+	float: right;
+	margin-right: 20px;
+	line-height:22px;
+
+}
+
+/*Class daily Coverage bar*/
+
+.SU_daily_coverage_bars{
+
+	width: 495px;
+	height:700px;
+	
+	display: block;
+	background-color: #E0E0F8;
+	margin-left:517px;
+	margin-top: 644px;
+
+}
+
+/*Synthetic Life Bar*/
+
+#synthetic_life_bar{
+
+	background-color:#e0e0f8;
+	height: 120px;
+
+}
+
+#image_synthetic_life{
+
+	float:left;
+	width:200px;
+	height:99px;
+	margin-top:10px;
+	margin-left:10px;
+    padding-right:13px;
+}
+
+#text_synthetic_life_bar1{
+    padding-top:5px;
+	
+	padding-left:5px;
+	font-size:20px;
+	font-family:calibri;
+    
+
+}
+
+#text_synthetic_life_bar2{
+    padding-top:5px;
+	padding-left:5px;
+	font-size:20px;
+	font-family:calibri;
+	font-size:18px;
+	font-weight: bold;
+	margin-top:-24px;
+	margin-left: 40px;
+    color:#353f47;
+   
+}
+
+#text_synthetic_life_bar1 a{
+    text-decoration: none;
+	color:#353f47;
+	
+
+}
+
+#text_synthetic_life_bar1 a:hover{
+    color: #808080;
+
+}
+
+/*Awesome Stories Bar*/
+
+#awesome_stories_bar{
+
+	background-color:#e0e0f8;
+	height: 120px;
+    margin-top: -20px;
+}
+
+#image_awesome_stories{
+
+	float:left;
+	width:200px;
+	height:99px;
+	margin-top:10px;
+	margin-left:10px;
+    padding-right:13px;
+}
+
+#text_awesome_stories1{
+    padding-top:5px;
+	
+	padding-left:5px;
+	font-size:20px;
+	font-family:calibri;
+    
+
+}
+
+#text_awesome_stories2{
+    padding-top:5px;
+	padding-left:5px;
+	font-size:20px;
+	font-family:calibri;
+	font-size:18px;
+	font-weight: bold;
+	margin-top:-24px;
+	margin-left: 40px;
+    color:#353f47;
+   
+}
+
+#text_awesome_stories1 a{
+    text-decoration: none;
+	color:#353f47;
+	
+
+}
+
+#text_awesome_stories1 a:hover{
+    color: #808080;
+
+}
+
+/*Decipher Brain bar*/
+
+#decipher_brain_bar{
+
+	background-color:#e0e0f8;
+	height: 120px;
+    margin-top: -20px;
+}
+
+#image_decipher_brain{
+
+	float:left;
+	width:200px;
+	height:99px;
+	margin-top:10px;
+	margin-left:10px;
+    padding-right:13px;
+}
+
+#text_decipher_brain1{
+    padding-top:5px;
+	
+	padding-left:5px;
+	font-size:20px;
+	font-family:calibri;
+    
+
+}
+
+#text_decipher_brain2{
+    padding-top:5px;
+	padding-left:5px;
+	font-size:20px;
+	font-family:calibri;
+	font-size:18px;
+	font-weight: bold;
+	margin-top:-24px;
+	margin-left: 40px;
+    color:#353f47;
+   
+}
+
+#text_decipher_brain1 a{
+    text-decoration: none;
+	color:#353f47;
+	
+
+}
+
+#text_decipher_brain1 a:hover{
+    color: #808080;
+
+}
+
+/*Virtual Reality Bar*/
+
+#virtual_reality_bar{
+
+	background-color:#e0e0f8;
+	height: 120px;
+    margin-top: -20px;
+}
+
+#image_virtual_reality{
+
+	float:left;
+	width:200px;
+	height:99px;
+	margin-top:10px;
+	margin-left:10px;
+    padding-right:13px;
+}
+
+#text_virtual_reality1{
+    padding-top:5px;
+	
+	padding-left:5px;
+	font-size:20px;
+	font-family:calibri;
+    
+
+}
+
+#text_virtual_reality2{
+    padding-top:5px;
+	padding-left:5px;
+	font-size:20px;
+	font-family:calibri;
+	font-size:18px;
+	font-weight: bold;
+	margin-top:-24px;
+	margin-left: 40px;
+    color:#353f47;
+   
+}
+
+#text_virtual_reality1 a{
+    text-decoration: none;
+	color: #353f47;
+	
+
+}
+
+#text_virtual_reality1 a:hover{
+    color: #808080;
+
+}
+
+/*Digital Revolution Bar*/
+
+#digital_revolution_bar{
+
+	background-color:#e0e0f8;
+	height: 120px;
+    margin-top: -20px;
+}
+
+#image_digital_revolution{
+
+	float:left;
+	width:200px;
+	height:99px;
+	margin-top:10px;
+	margin-left:10px;
+    padding-right:13px;
+}
+
+#text_digital_revolution_bar1{
+    padding-top:5px;
+	
+	padding-left:5px;
+	font-size:20px;
+	font-family:calibri;
+    
+
+}
+
+#text_digital_revolution_bar2{
+    padding-top:5px;
+	padding-left:5px;
+	font-size:20px;
+	font-family:calibri;
+	font-size:18px;
+	font-weight: bold;
+	margin-top:-24px;
+	margin-left: 40px;
+    color:#353f47;
+   
+}
+
+#text_digital_revolution_bar1 a{
+    text-decoration: none;
+	color: #353f47;
+	
+
+}
+
+#text_digital_revolution_bar1 a:hover{
+    color: #808080;
+
+}
+
+/*Self Driving trucks bar*/
+
+#self_driving_trucks_bar{
+
+	background-color:#e0e0f8;
+	height: 130px;
+    margin-top: -20px;
+	margin-bottom: -10px;
+}
+#image_self_driving_trucks{
+
+	float:left;
+	width:200px;
+	height:99px;
+	margin-top:10px;
+	margin-left:10px;
+    padding-right:13px;
+}
+
+#text_self_driving_trucks_bar1{
+    padding-top:5px;
+	
+	padding-left:5px;
+	font-size:20px;
+	font-family:calibri;
+
+}
+
+#text_self_driving_trucks_bar2{
+    padding-top:5px;
+	padding-left:5px;
+	font-size:20px;
+	font-family:calibri;
+	font-size:18px;
+	font-weight: bold;
+	margin-top:-24px;
+	margin-left: 40px;
+    color:#353f47;
+}
+
+#text_self_driving_trucks_bar1 a{
+    text-decoration: none;
+	color: #353f47;
+	
+
+}
+
+#text_self_driving_trucks_bar1 a:hover{
+    color: #808080;
+
+}
+
+/*Uber-ize bar*/
+
+#uber_ize_bar{
+
+	background-color:#e0e0f8;
+	height: 130px;
+    margin-top: -20px;
+	margin-bottom: -10px;
+}
+
+#image_uber_ize_bar{
+
+	float:left;
+	width:200px;
+	height:99px;
+	margin-top:10px;
+	margin-left:10px;
+    padding-right:13px;
+    
+}
+
+#text_uber_ize_bar1{
+    padding-top:5px;
+	
+	padding-left:5px;
+	font-size:20px;
+	font-family:calibri;
+    
+
+}
+
+#text_uber_ize_bar2{
+    padding-top:5px;
+	padding-left:5px;
+	font-size:20px;
+	font-family:calibri;
+	font-size:18px;
+	font-weight: bold;
+	margin-top:-24px;
+	margin-left: 40px;
+    color:#353f47;
+   
+}
+
+#text_uber_ize_bar1 a{
+    text-decoration: none;
+	color: #353f47;
+	
+
+}
+
+#text_uber_ize_bar1 a:hover{
+    color: #808080;
+
+}
+
+/*MIT Big data bar*/
+#MIT_bigdata_bar{
+
+	background-color:#e0e0f8;
+	height: 130px;
+    margin-top: -20px;
+	margin-bottom: -10px;
+}
+
+#image_MIT_bigdata_bar{
+
+	float:left;
+	width:200px;
+	height:99px;
+	margin-top:10px;
+	margin-left:10px;
+    padding-right:13px;
+}
+
+#text_MIT_bigdata_bar1{
+    padding-top:5px;
+	
+	padding-left:5px;
+	font-size:20px;
+	font-family:calibri;
+    
+
+}
+
+#text_MIT_bigdata_bar2{
+    padding-top:5px;
+	padding-left:5px;
+	font-size:20px;
+	font-family:calibri;
+	font-size:18px;
+	font-weight: bold;
+	margin-top:-24px;
+	margin-left: 40px;
+    color:#353f47;
+   
+}
+
+#text_MIT_bigdata_bar1 a{
+    text-decoration: none;
+	color: #353f47;
+	
+
+}
+
+#text_MIT_bigdata_bar1 a:hover{
+    color: #808080;
+
+}
+
+
+
