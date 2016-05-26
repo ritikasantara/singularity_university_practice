@@ -27,27 +27,28 @@
 
 #fb_pic_container{
 
-	margin-left:20px;
-	width:21px;
-	height:20px;
-	background-color:#566573;
+	margin-left: 20px;
+	width: 21px;
+	height: 20px;
+	background-color: #566573;
 
 
 }
 
 #social_media_fb{
 
-margin-left: 0px;
-padding-right:12px;
-position: absolute;
+	margin-left: 0;
+	padding-right:12px;
+	position: absolute;
 
 }
 #twitter_pic_container{
+
     margin-top: -20px;
-	margin-left:53px;
-	width:24px;
-	height:20px;
-	background-color:#566573;
+	margin-left: 53px;
+	width: 24px;
+	height: 20px;
+	background-color: #566573;
 
 
 }
@@ -57,19 +58,17 @@ position: absolute;
 
 	margin-top: 0;
 	margin-left: 0;
-	padding-right:12px;
-
-
+	padding-right: 12px;
 
 }
+
 #youtube_pic_container{
 
     margin-top: -20px;
-	margin-left:90px;
-	width:26px;
-	height:19px;
-	background-color:#566573;
-
+	margin-left: 90px;
+	width: 26px;
+	height: 19px;
+	background-color: #566573;
 
 }
 
@@ -77,7 +76,7 @@ position: absolute;
 
 	margin-top: 0;
 	margin-left: 0px;
-	padding-right:12px;
+	padding-right: 12px;
 
 
 }
@@ -85,10 +84,10 @@ position: absolute;
 #gplus_pic_container{
 
     margin-top: -20px;
-	margin-left:128px;
-	width:26px;
-	height:23px;
-	background-color:#566573;
+	margin-left: 128px;
+	width: 26px;
+	height: 23px;
+	background-color: #566573;
 
 
 }
@@ -97,7 +96,7 @@ position: absolute;
 
 	margin-top: 0;
 	margin-left: 0px;
-	padding-right:12px;
+	padding-right: 12px;
 
 
 }
@@ -105,10 +104,10 @@ position: absolute;
 #linkedin_pic_container{
 
     margin-top: -22px;
-	margin-left:160px;
-	width:24px;
-	height:22px;
-	background-color:#566573;
+	margin-left: 160px;
+	width: 24px;
+	height: 22px;
+	background-color: #566573;
 
 
 }
@@ -117,12 +116,13 @@ position: absolute;
 
 	margin-top: 0;
 	margin-left: 2px;
-	padding-right:12px;
+	padding-right: 12px;
 
 
 }
 
 #social_media_hr{
+
 	margin-left: 20px;
 	width: 227px;
 
@@ -135,7 +135,7 @@ margin-left: 20px;
 margin-top: 10px;
 float: left;
 font-family: calibri;
-color: white;
+color: #fff;
 font-size: 16px;
 
 }
@@ -145,7 +145,7 @@ font-size: 16px;
 #company{
 
 	float: left;
-	margin-left: 0px;
+	margin-left: 0;
 	margin-top: 30px;
 	width: 250px;
 	height: 190px;
@@ -159,7 +159,7 @@ font-size: 16px;
 	margin-top: 0;
 	font-family: calibri;
 	font-size: 18px;
-	color: white;
+	color: #fff;
 
 }
 
@@ -173,7 +173,7 @@ font-size: 16px;
 #div_company1{
 
 	margin-left: 10px;
-	color: white;
+	color: #fff;
 	font-size: 18px;
 	font-family: calibri;
 
@@ -196,7 +196,7 @@ font-size: 16px;
 #div_company1 a{
 
 	text-decoration: none;
-	color: white;
+	color: #fff;
 
 
 }
@@ -205,7 +205,7 @@ font-size: 16px;
     
 	margin-top: -148px;
 	margin-left: 123px;
-	color: white;
+	color: #fff;
 	font-size: 18px;
 	font-family: calibri;
 	
@@ -222,7 +222,7 @@ font-size: 16px;
 #div_company2 a{
 
 	text-decoration: none;
-	color: white;
+	color: #fff;
 
 
 }
@@ -239,7 +239,7 @@ font-size: 16px;
 #corporate_founders{
 
 	float: left;
-	margin-left: 0px;
+	margin-left: 0;
 	margin-top: 20px;
 	width: 532px;
 	height: 260px;
@@ -253,7 +253,7 @@ font-size: 16px;
 	margin-top: 10px;
 	font-family: calibri;
 	font-size: 18px;
-	color: white;
+	color: #fff;
 
 }
 
@@ -279,7 +279,7 @@ font-size: 16px;
 
 #search_image{
 
-margin-left:489px;
+margin-left: 489px;
 width: 20px;
 height: 20px;
 position: absolute;
@@ -361,8 +361,98 @@ position: absolute;
 	margin-left: 10px;
 	margin-top: 35px;
 	
+}
+
+.footer_bar2{
+
+	width: 1032px;
+	height: 200px;
+	float: left;
+	margin-left: -20px;
+	background-color: #566573;
+	margin-top: 935px;
+	position: absolute;
+
+}
+
+#footer_bar2_hr1{
+ 
+	margin-left: 20px;
+	margin-top: 0px;
+	width: 990px;
+	color: #fff;
+
+}
+
+#submit_bar_footerbar2{
+
+	margin-top: 0;
+	margin-left:20px;
+	width:990px;
+	height:50px;
+	background-color:#566573;
+	color: #fff;
+	font-family:calibri light;
+
 
 
 }
 
+#text_submitbar_footer{
 
+	font-size: 18px;
+	margin-left: 150px;
+	line-height: 45px;
+	color: #fff;
+
+}
+
+#submit_bar_footer_input{
+
+	margin-top: -14px;
+	margin-left: 10px;
+	width: 382px;
+	height: 32px;
+	position: relative;
+  
+}
+
+#button_submit_footer{
+
+	text-align: center;
+	position: absolute;
+	width: 80px;
+	height: 35px;
+	line-height: 35px;
+	background-color: #f4a460;
+	margin-left: 780px;
+	margin-top: -56px;
+	color: #fff;
+	cursor: pointer;
+
+
+}
+
+#footer_bar2_hr2{
+
+	margin-left: 20px;
+	margin-top: 15px;
+	width: 990px;
+	color: #fff;
+
+
+}
+
+#text_footer{
+
+	margin-left: 3px;
+	text-align: center;
+	font-family: calibri light;
+	font-size: 14px;
+	color: #fff;
+}
+
+#text_footer a{
+
+    color: #fff;
+}
