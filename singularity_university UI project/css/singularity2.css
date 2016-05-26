@@ -293,12 +293,76 @@ cursor: default;
 
 }
 
+#genetech_image{
+
+cursor: pointer;
+margin-left: 10px;
+margin-top: 10px;
+
+}
+
+#autodesk_image{
+
+cursor: pointer;
+margin-left: 20px;
+margin-top: 15px;
+position: absolute;
+
+}
+
+#google_image{
+
+	cursor: pointer;
+	margin-left: 180px;
+	margin-top: 10px;
+	position: absolute;
 
 
+}
+
+#nokia_image{
+
+	cursor: pointer;
+	margin-left: 10px;
+	margin-top: 35px;
+
+}
+
+#cisco_image{
+
+	cursor: pointer;
+	margin-left: 25px;
+	margin-top: 22px;
+	position: absolute;
+
+}
+
+#kauffman_image{
+
+	cursor: pointer;
+	margin-left: 119px;
+	margin-top: 22px;
+	position: absolute;
+
+}
+
+#eplanet_image{
+
+	cursor: pointer;
+	margin-left: 250px;
+	margin-top: 25px;
+	position: absolute;
+
+}
+
+#deloitte_image{
+
+	cursor: pointer;
+	margin-left: 10px;
+	margin-top: 35px;
+	
 
 
-
-
-
+}
 
 

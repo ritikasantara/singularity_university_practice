@@ -194,6 +194,21 @@ $(document).ready(function(){
 		
 		
 	});
+	
+	$("#genetech_image").hover(function(){
+		
+		
+		$(this).css("opacity","0.5");
+		
+	});
+	
+	$("#genetech_image").mouseleave(function(){
+		
+		
+		$(this).css("opacity","1");
+		
+		
+	});
 
 
 });
