@@ -860,7 +860,7 @@ input{
 
 #innovation_partnership_bar{
 
-	height: 93px;
+	height: 92px;
 	color: white;
 	padding-bottom: 20px;
 	margin-top: -7px;
@@ -897,6 +897,15 @@ input{
     background-color: #d09ba9;
 
 
+}
+#null_bar1{
+
+	margin-top:631px;
+	margin-left:20px;
+	width:485px;
+	height:10px;
+	background-color:#E0E0F8;
+	position: absolute;
 }
 
 .events_program_bars{
