@@ -116,6 +116,84 @@ $(document).ready(function(){
 		
 		
 	});
+	
+	//social media fb hover
+	
+	$("#social_media_fb").hover(function(){
+		
+		$("#fb_pic_container").css("background-color","#566573");
+		$(this).css("opacity","0.5");
+		
+		
+	});
+	
+	$("#social_media_fb").mouseleave(function(){
+		
+		$("#fb_pic_container").css("background-color","#566573");
+		$(this).css("opacity","1");
+		
+		
+	});
+	
+	$("#social_media_twitter").hover(function(){
+		
+		$("#twitter_pic_container").css("background-color","#566573");
+		$(this).css("opacity","0.5");
+		
+	});
+	
+	$("#social_media_twitter").mouseleave(function(){
+		
+		$("#twitter_pic_container").css("background-color","#566573");
+		$(this).css("opacity","1");
+		
+		
+	});
+	
+	$("#social_media_youtube").hover(function(){
+		
+		$("#youtube_pic_container").css("background-color","#566573");
+		$(this).css("opacity","0.5");
+		
+	});
+	
+	$("#social_media_youtube").mouseleave(function(){
+		
+		$("#youtube_pic_container").css("background-color","#566573");
+		$(this).css("opacity","1");
+		
+		
+	});
+	
+	$("#social_media_gplus").hover(function(){
+		
+		$("#gplus_pic_container").css("background-color","#566573");
+		$(this).css("opacity","0.5");
+		
+	});
+	
+	$("#social_media_gplus").mouseleave(function(){
+		
+		$("#gplus_pic_container").css("background-color","#566573");
+		$(this).css("opacity","1");
+		
+		
+	});
+	
+	$("#social_media_linkedin").hover(function(){
+		
+		$("#linkedin_pic_container").css("background-color","#566573");
+		$(this).css("opacity","0.5");
+		
+	});
+	
+	$("#social_media_linkedin").mouseleave(function(){
+		
+		$("#linkedin_pic_container").css("background-color","#566573");
+		$(this).css("opacity","1");
+		
+		
+	});
 
 
 });
