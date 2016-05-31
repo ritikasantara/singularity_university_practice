@@ -862,7 +862,7 @@ a{
 #press_bar{
 
     float: left;
-	margin-top: 50px;
+	margin-top: 35px;
 	margin-left: 0;
 	width: 992px;
 	height: 57px;
@@ -1222,7 +1222,7 @@ position: absolute;
 /*Null Bar*/
 
 #null_bar3{
-	margin-top: 616px;
+	margin-top: 601px;
 	margin-left: 0;
 	width: 992px;
 	height: 10px;
@@ -1294,7 +1294,7 @@ position: absolute;
 #synthetic_life_bar{
 
 	background-color: #e0e0f8;
-	height: 120px;
+	height: 135px;/*120*/
 
 }
 
@@ -1303,14 +1303,14 @@ position: absolute;
 	float: left;
 	width: 200px;
 	height: 99px;
-	margin-top: 10px;
+	margin-top: 15px;/*10*/
 	margin-left: 10px;
     padding-right: 13px;
 }
 
 #text_synthetic_life_bar1{
 
-    padding-top: 5px;
+    padding-top: 10px;
 	padding-left: 5px;
 	font-size: 20px;
 	font-family: calibri;
@@ -1351,7 +1351,7 @@ position: absolute;
 #awesome_stories_bar{
 
 	background-color: #e0e0f8;
-	height: 120px;
+	height: 135px;
     margin-top: -20px;
 }
 
@@ -1360,14 +1360,14 @@ position: absolute;
 	float: left;
 	width: 200px;
 	height: 99px;
-	margin-top: 10px;
+	margin-top: 15px;
 	margin-left: 10px;
     padding-right: 13px;
 }
 
 #text_awesome_stories1{
 
-    padding-top: 5px;
+    padding-top: 10px;
 	padding-left: 5px;
 	font-size: 20px;
 	font-family: calibri;
@@ -1408,7 +1408,7 @@ position: absolute;
 #decipher_brain_bar{
 
 	background-color: #e0e0f8;
-	height: 120px;
+	height: 130px;
     margin-top: -20px;
 }
 
@@ -1417,14 +1417,14 @@ position: absolute;
 	float: left;
 	width: 200px;
 	height: 99px;
-	margin-top: 10px;
+	margin-top: 15px;
 	margin-left: 10px;
     padding-right: 13px;
 }
 
 #text_decipher_brain1{
 
-    padding-top: 5px;
+    padding-top: 10px;
 	padding-left: 5px;
 	font-size: 20px;
 	font-family: calibri;
@@ -1465,7 +1465,7 @@ position: absolute;
 #virtual_reality_bar{
 
 	background-color: #e0e0f8;
-	height: 120px;
+	height: 130px;
     margin-top: -20px;
 }
 
@@ -1474,14 +1474,14 @@ position: absolute;
 	float: left;
 	width: 200px;
 	height: 99px;
-	margin-top: 10px;
+	margin-top: 15px;
 	margin-left: 10px;
     padding-right: 13px;
 }
 
 #text_virtual_reality1{
 
-    padding-top: 5px;
+    padding-top: 10px;
 	padding-left: 5px;
 	font-size: 20px;
 	font-family: calibri;
@@ -1521,8 +1521,9 @@ position: absolute;
 #digital_revolution_bar{
 
 	background-color: #e0e0f8;
-	height: 120px;
+	height: 140px;
     margin-top: -20px;
+	margin-bottom: -10px;
 }
 
 #image_digital_revolution{
@@ -1530,14 +1531,14 @@ position: absolute;
 	float: left;
 	width: 200px;
 	height: 99px;
-	margin-top: 10px;
+	margin-top: 15px;
 	margin-left: 10px;
     padding-right: 13px;
 }
 
 #text_digital_revolution_bar1{
 
-    padding-top: 5px;
+    padding-top: 10px;
 	padding-left: 5px;
 	font-size: 20px;
 	font-family: calibri;
@@ -1578,9 +1579,10 @@ position: absolute;
 #self_driving_trucks_bar{
 
 	background-color: #e0e0f8;
-	height: 130px;
+	height: 145px;
     margin-top: -20px;
 	margin-bottom: -10px;
+
 }
 
 #image_self_driving_trucks{
@@ -1588,14 +1590,14 @@ position: absolute;
 	float: left;
 	width: 200px;
 	height: 99px;
-	margin-top: 10px;
+	margin-top: 15px;
 	margin-left: 10px;
     padding-right: 13px;
 }
 
 #text_self_driving_trucks_bar1{
 
-    padding-top: 5px;
+    padding-top: 10px;
 	padding-left: 5px;
 	font-size: 20px;
 	font-family: calibri;
@@ -1634,7 +1636,7 @@ position: absolute;
 #uber_ize_bar{
 
 	background-color: #e0e0f8;
-	height: 130px;
+	height: 145px;
     margin-top: -20px;
 	margin-bottom: -10px;
 }
@@ -1644,7 +1646,7 @@ position: absolute;
 	float: left;
 	width: 200px;
 	height: 99px;
-	margin-top: 10px;
+	margin-top: 15px;
 	margin-left: 10px;
     padding-right: 13px;
     
@@ -1652,7 +1654,7 @@ position: absolute;
 
 #text_uber_ize_bar1{
 
-    padding-top: 5px;
+    padding-top: 10px;
 	padding-left: 5px;
 	font-size: 20px;
 	font-family: calibri;
@@ -1690,7 +1692,7 @@ position: absolute;
 #MIT_bigdata_bar{
 
 	background-color: #e0e0f8;
-	height: 130px;
+	height: 145px;
     margin-top: -20px;
 	margin-bottom: -10px;
 }
@@ -1700,14 +1702,14 @@ position: absolute;
 	float: left;
 	width: 200px;
 	height: 99px;
-	margin-top: 10px;
+	margin-top: 15px;
 	margin-left: 10px;
     padding-right: 13px;
 }
 
 #text_MIT_bigdata_bar1{
 
-    padding-top: 5px;
+    padding-top: 10px;
 	padding-left: 5px;
 	font-size: 20px;
 	font-family: calibri;

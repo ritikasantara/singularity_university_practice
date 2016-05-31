@@ -1,18 +1,8 @@
 /*Faculty and Speakers Images*/
-/*array 1*/
+/* images array 1*/
 /*peter diamandis*/
 
-/*#peter_diamandis{
 
-	width: 122px;
-	height: 165px;
-	display: none;
-	position: relative;
-	top: 0px;
-	left: 11px;
-	
-
-}
 
 #tag_peter{
 
@@ -37,21 +27,10 @@ margin-left: 3px;
 opacity: 1;
 
 
-}*/
+}
 
 /*david roberts*/
 
-/*/#david_roberts{
-
-	width: 122px;
-	height: 165px;
-	display: none;
-	position: relative;
-	top: 0px;
-	left: 516px;
-
-
-}
 
 #tag_david{
 
@@ -76,26 +55,16 @@ margin-left: 3px;
 opacity: 1;
 
 
-}*/
+}
 
 /*raymond mccauley*/
 
-/*#raymond_mccauley{
 
-	width: 122px;
-	height: 165px;
-	display: none;
-	position: relative;
-	top: 0px;
-	left: 516px;
-	
-
-}
 
 #tag_raymond{
 
 width: 122px;
-height: 40px;
+height: 80px;
 background-color: #000;
 opacity:0.4;
 position: absolute;
@@ -115,21 +84,10 @@ margin-left: 3px;
 opacity: 1;
 
 
-}*/
+}
 
 /*andrew hessel*/
 
-/*#andrew_hessel{
-
-	width: 122px;
-	height: 165px;
-	display: none;
-	position: relative;
-	top: 0px;
-	left: 516px;
-	
-
-}
 
 #tag_andrew{
 
@@ -154,35 +112,60 @@ margin-left: 3px;
 opacity: 1;
 
 
-}*/
-
-/*.active1{
-
-display: block;
+}
 
 
-}*/
 
 #images_array1{
 
-position: relative;
-width: 122px;
-height: 165px;
-/*background: url("../images/headshot-peter-diamandis-e1367525992312.jpg");*/
-top: 0;
-left:516px;
+	position: relative;
+	top: 0;
+	left:516px;
 }
 
+#peter_diamandis{
+    
+	width: 122px;
+	height: 165px;
+	background: url("../images/headshot-peter-diamandis-e1367525992312.jpg");
 
-#images_array1 img{
+}
+
+#david_roberts{
+
+    display:none;
+	width: 122px;
+	height: 165px;
+	background: url("../images/david-roberts-sm-e1397501466263.jpg");
+
+}
+
+#raymond_mccauley{
+
+    display: none;
+	width: 122px;
+	height: 165px;
+	background: url("../images/headshot-raymond-mccauley.jpg");
+
+}
+
+#andrew_hessel{
+
+    display:none;
+	width: 122px;
+	height: 165px;
+	background: url("../images/headshot-andrew-hessel.jpg");
+
+}
+
+/*#images_array1{
+
 display: none;
-position: absolute;
-top:0;
-left:516px;
 
-}
 
-#images_array1 img:active1{
+}*/
+
+#images_array1 .active1{
 
 display: block;
 /*transition-timing-function: ease-in-out;
@@ -225,7 +208,7 @@ transition-delay: 1s;*/
 	font-family: calibri;
     font-weight: bold;
 	margin-left: 3px;
-}*/
+}
 
 /*salim ismail*/
 
@@ -332,10 +315,11 @@ transition-delay: 1s;*/
 	margin-left: 3px;
 }
 
-.active2{
+#images_array2 .active2{
 
 display: block;
-
+/*transition-timing-function: ease-in-out;
+transition-delay: 1s;*/
 
 }
 
@@ -483,7 +467,7 @@ display: block;
 	margin-left: 3px;
 }
 
-.active3{
+#images_array3 .active3{
 
 display: block;
 
@@ -608,7 +592,7 @@ display: block;
 	top: -330px;
 	left: 638px;
 	display: none;
-	background: url("../images/Nick_Haan_studio_030614-3835-400x625.jpg");
+	background: url("../images/nick1.jpg");
 }
 
 #tag_nick{
@@ -633,7 +617,7 @@ display: block;
 	margin-left: 3px;
 }
 
-.active4{
+#images_array4 .active4{
 
 display: block;
 
@@ -782,7 +766,7 @@ display: block;
 	margin-left: 3px;
 }
 
-.active5{
+#images_array5 .active5{
 
 display: block;
 
@@ -873,7 +857,7 @@ display: block;
 	top: -495px;
 	left: 638px;
 	display: none;
-	background: url("../images/text_mohr.jpg");
+	background: url("../images/headshot-catherine-mohr.jpg");
 }
 
 #tag_mohr{
@@ -935,7 +919,7 @@ display: block;
 	
 }
 
-.active6{
+#images_array6 .active6{
 
 display: block;
 
