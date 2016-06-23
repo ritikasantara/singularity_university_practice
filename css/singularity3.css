@@ -1,0 +1,1100 @@
+/*Faculty and Speakers Images*/
+/* images array 1*/
+/*peter diamandis*/
+
+
+
+#tag_peter{
+
+width: 122px;
+height: 40px;
+background-color: #000;
+opacity:0.4;
+position: absolute;
+left: 0;
+top: 125px;
+line-height: 35px;
+
+}
+
+#text_peter{
+
+color: #faf7fe;
+font-family: calibri;
+font-weight: bold;
+text-align:left;
+margin-left: 3px;
+opacity: 1;
+
+
+}
+
+/*david roberts*/
+
+
+#tag_david{
+
+width: 122px;
+height: 40px;
+background-color: #000;
+opacity:0.4;
+position: absolute;
+left: 0;
+top: 125px;
+line-height: 35px;
+
+}
+
+#text_david{
+
+color: #faf7fe;
+font-family: calibri;
+font-weight: bold;
+text-align:left;
+margin-left: 3px;
+opacity: 1;
+
+
+}
+
+/*raymond mccauley*/
+
+
+
+#tag_raymond{
+
+width: 122px;
+height: 80px;
+background-color: #000;
+opacity:0.4;
+position: absolute;
+left: 0;
+top: 125px;
+line-height: 35px;
+
+}
+
+#text_raymond{
+
+color: #faf7fe;
+font-family: calibri;
+font-weight: bold;
+text-align:left;
+margin-left: 3px;
+opacity: 1;
+
+
+}
+
+/*andrew hessel*/
+
+
+#tag_andrew{
+
+width: 122px;
+height: 40px;
+background-color: #000;
+opacity:0.4;
+position: absolute;
+left: 0;
+top: 125px;
+line-height: 35px;
+
+}
+
+#text_andrew{
+
+color: #faf7fe;
+font-family: calibri;
+font-weight: bold;
+text-align:left;
+margin-left: 3px;
+opacity: 1;
+
+
+}
+
+
+
+#images_array1{
+
+	position: relative;
+	top: 0;
+	left:516px;
+}
+
+#peter_diamandis{
+    
+	width: 122px;
+	height: 165px;
+	background: url("../images/headshot-peter-diamandis-e1367525992312.jpg");
+
+}
+
+#david_roberts{
+
+    display:none;
+	width: 122px;
+	height: 165px;
+	background: url("../images/david-roberts-sm-e1397501466263.jpg");
+
+}
+
+#raymond_mccauley{
+
+    display: none;
+	width: 122px;
+	height: 165px;
+	background: url("../images/headshot-raymond-mccauley.jpg");
+
+}
+
+#andrew_hessel{
+
+    display:none;
+	width: 122px;
+	height: 165px;
+	background: url("../images/headshot-andrew-hessel.jpg");
+
+}
+
+/*#images_array1{
+
+display: none;
+
+
+}*/
+
+#images_array1 .active1{
+
+display: block;
+/*transition-timing-function: ease-in-out;
+transition-delay: 1s;*/
+
+}
+
+/*Array 2*/
+
+/*ray kurweil*/
+
+#ray_kurzweil{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -165px;
+	left: 638px;
+	display: block;
+	background: url("../images/headshot-ray-kurzweil-e1367525904498.jpg");
+}
+
+#tag_ray{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity:0.4;
+	position: absolute;
+	left: 0;
+	top: 125px;
+	line-height: 35px;
+
+}
+
+#text_ray{
+
+    text-align:left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+}
+
+/*salim ismail*/
+
+#salim_ismail{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -165px;
+	left: 638px;
+	display: none;
+	background: url("../images/headshot-salim-ismail-e1379537092639.jpg");
+}
+
+#tag_salim{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity:0.4;
+	position: absolute;
+	left: 0;
+	top: 125px;
+	line-height: 35px;
+
+}
+
+#text_salim{
+
+    text-align:left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+}
+
+/*marc goodman*/
+
+#marc_goodman{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -165px;
+	left: 638px;
+	display: none;
+	background: url("../images/marc_goodman.jpg");
+}
+
+#tag_marc{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity:0.4;
+	position: absolute;
+	left: 0;
+	top: 125px;
+	line-height: 35px;
+
+}
+
+#text_marc{
+
+    text-align:left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+}
+
+/*paul saffo*/
+
+#paul_saffo{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -165px;
+	left: 638px;
+	display: none;
+	background: url("../images/Saffo-e1456266358164.jpg");
+}
+
+#tag_saffo{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity:0.4;
+	position: absolute;
+	left: 0;
+	top: 125px;
+	line-height: 35px;
+
+}
+
+#text_saffo{
+
+    text-align:left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+}
+
+#images_array2 .active2{
+
+display: block;
+/*transition-timing-function: ease-in-out;
+transition-delay: 1s;*/
+
+}
+
+
+
+/*Array 3*/
+
+/*abi reichental*/
+
+#abi_reichental{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -165px;
+	left: 516px;
+	display: block;
+	background: url("../images/headshot-abe-reichental.jpg");
+}
+
+#tag_abi{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity:0.4;
+	position: absolute;
+	left: 0;
+	top: 126px;
+	line-height: 35px;
+
+}
+
+#text_abi{
+
+    text-align:left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+}
+
+/*vivek wadhwa*/
+
+#vivek_wadhwa{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -165px;
+	left: 516px;
+	display: none;
+	background: url("../images/headshot-vivek-wadhwa.jpg");
+}
+
+#tag_vivek{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity:0.4;
+	position: absolute;
+	left: 0;
+	top: 126px;
+	line-height: 35px;
+
+}
+
+#text_vivek{
+
+    text-align:left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+}
+
+/*ralph merkle*/
+
+#ralph_merkle{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -165px;
+	left: 516px;
+	display: none;
+	background: url("../images/headshot-ralph-merkle.jpg");
+}
+
+#tag_ralph{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity:0.4;
+	position: absolute;
+	left: 0;
+	top: 126px;
+	line-height: 35px;
+
+}
+
+#text_ralph{
+
+    text-align:left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+}
+
+/*robert freitas*/
+
+#robert_freitas{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -165px;
+	left: 516px;
+	display: none;
+	background: url("../images/headshot-robert-freitas.jpg");
+}
+
+#tag_freitas{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity:0.4;
+	position: absolute;
+	left: 0;
+	top: 126px;
+	line-height: 35px;
+
+}
+
+#text_freitas{
+
+    text-align:left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+}
+
+#images_array3 .active3{
+
+display: block;
+
+
+}
+
+
+/*Array 4*/
+
+/*kathryn*/
+
+#kathryn{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -330px;
+	left: 638px;
+	display: block;
+	background: url("../images/kathryn1.jpg");
+}
+
+#tag_kathryn{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity:0.4;
+	position: absolute;
+	left: 0;
+	top: 126px;
+	line-height: 35px;
+
+}
+
+#text_kathryn{
+
+    text-align:left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+}
+
+/*daniel kraft*/
+
+#daniel_kraft{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -330px;
+	left: 638px;
+	display: none;
+	background: url("../images/headshot-daniel-kraft.jpg");
+}
+
+#tag_daniel{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity:0.4;
+	position: absolute;
+	left: 0;
+	top: 126px;
+	line-height: 35px;
+
+}
+
+#text_daniel{
+
+    text-align:left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+}
+
+/*jonathan knowles*/
+
+#jonathan{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -330px;
+	left: 638px;
+	display: none;
+	background: url("../images/headshot-jonathan-knowles.jpg");
+}
+
+#tag_jonathan{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity:0.4;
+	position: absolute;
+	left: 0;
+	top: 126px;
+	line-height: 35px;
+
+}
+
+#text_jonathan{
+
+    text-align:left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+}
+
+/*nick haan*/
+
+#nick_haan{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -330px;
+	left: 638px;
+	display: none;
+	background: url("../images/nick1.jpg");
+}
+
+#tag_nick{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity:0.4;
+	position: absolute;
+	left: 0;
+	top: 126px;
+	line-height: 35px;
+
+}
+
+#text_nick{
+
+    text-align:left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+}
+
+#images_array4 .active4{
+
+display: block;
+
+
+}
+
+/*Array 5*/
+
+/*robert hariri*/
+
+#robert_H{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -330px;
+	left: 516px;
+	display: block;
+	background: url("../images/robert-hariri-sm-e1397501509476.jpg");
+}
+
+#tag_robertH{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity:0.4;
+	position: absolute;
+	left: 0;
+	top: 126px;
+	line-height: 35px;
+
+}
+
+#text_robertH{
+
+    text-align:left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+}
+
+/*neil jacobstein*/
+
+#neil{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -330px;
+	left: 516px;
+	display: none;
+	background: url("../images/headshot-neil-jacobstein.jpg");
+}
+
+#tag_neil{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity:0.4;
+	position: absolute;
+	left: 0;
+	top: 126px;
+	line-height: 35px;
+
+}
+
+#text_neil{
+
+    text-align:left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+}
+
+/*gregg maryniak*/
+
+#gregg{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -330px;
+	left: 516px;
+	display: none;
+	background: url("../images/headshot-gregg-maryniak.png");
+}
+
+#tag_gregg{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity:0.4;
+	position: absolute;
+	left: 0;
+	top: 126px;
+	line-height: 35px;
+
+}
+
+#text_gregg{
+
+    text-align:left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+}
+
+/*eric ries*/
+
+#eric{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -330px;
+	left: 516px;
+	display: none;
+	background: url("../images/headshot-eric-ries.png");
+}
+
+#tag_eric{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity:0.4;
+	position: absolute;
+	left: 0;
+	top: 126px;
+	line-height: 35px;
+
+}
+
+#text_eric{
+
+    text-align:left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+}
+
+#images_array5 .active5{
+
+display: block;
+
+
+}
+
+
+/*Array 6*/
+
+/*jeremy howard*/
+
+#jeremy_howard{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -495px;
+	left: 638px;
+	display: block;
+	background: url("../images/headshot-jeremy-howard.jpeg");
+}
+
+#tag_jeremy{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity:0.4;
+	position: absolute;
+	left: 0;
+	top: 126px;
+	line-height: 35px;
+
+}
+
+#text_jeremy{
+
+    text-align:left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+}
+
+/*john hagel*/
+
+#john_hagel{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -495px;
+	left: 638px;
+	display: none;
+	background: url("../images/john-hagel-sm.jpg");
+}
+
+#tag_john{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity:0.4;
+	position: absolute;
+	left: 0;
+	top: 126px;
+	line-height: 35px;
+
+}
+
+#text_john{
+
+    text-align:left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+}
+
+/*catherine mohr*/
+
+
+#catherine_mohr{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -495px;
+	left: 638px;
+	display: none;
+	background: url("../images/headshot-catherine-mohr.jpg");
+}
+
+#tag_mohr{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity:0.4;
+	position: absolute;
+	left: 0;
+	top: 126px;
+	line-height: 35px;
+
+}
+
+#text_mohr{
+
+    text-align:left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+}
+
+/*brad tempeton*/
+
+#brad{
+
+	width: 122px;
+	height: 165px;
+	position: relative;
+	top: -495px;
+	left: 638px;
+	display: none;
+	background: url("../images/headshot-brad-templeton.jpg");
+	
+}
+
+#tag_brad{
+
+	width: 122px;
+	height: 40px;
+	background-color: #000;
+	opacity: 0.4;
+	position: absolute;
+	left: 0;
+	top: 126px;
+	line-height: 35px;
+
+}
+
+#text_brad{
+
+    text-align: left;
+	color: #faf7fe;
+	font-family: calibri;
+    font-weight: bold;
+	margin-left: 3px;
+	
+}
+
+#images_array6 .active6{
+
+display: block;
+
+
+}
+
+/*Slideshow*/
+
+
+.slideshow_container{
+
+	
+	position: relative;
+	float: right;
+	margin-right: 20px;
+	margin-top: -260px;
+    background-color: skyblue;
+	width: 470px;
+	height: 272px;
+    opacity: 0.6;
+  
+}
+
+	
+.previous_slide{
+
+    position: relative;
+	cursor: pointer;
+	
+	top: 0;
+	width: auto;
+	float: right;
+	margin-right: -50px;
+	margin-top: -155px;
+	padding: 16px;
+	color: #fff;
+	font-weight: bold;
+	font-size: 30px;
+	transition: 0.6s ease;
+
+}
+
+
+.next_slide{
+
+    
+    position: relative;
+	cursor: pointer;
+	width: auto;
+	float: right;
+	margin-right: -465px;
+	margin-top: -155px;
+	padding: 16px;
+	color: #fff;
+	font-weight: bold;
+	font-size: 30px;
+	transition: 0.6s ease;
+
+
+}
+
+.prev:hover , .next:hover{
+
+    color: rgba(0,0,0,0.8);
+
+}
+
+
+.fade{
+
+	-webkit-animation-name: fade;
+	-webkit-animation-duration: 1.5s;
+	        animation-name: fade;
+	        animation-duration: 1.5s;
+ 
+
+}
+
+@-webkit-keyframes fade{
+
+from{opacity : 0.4}
+to{opacity : 1}
+
+}
+
+@keyframes fade{
+
+from{opacity : 0.4}
+to{opacity : 1}
+
+}
+
+#image_slideshow1{
+    display:block;
+	background: url("../images/image_slideshow1.jpg");
+	width: 470px;
+	height: 272px; 
+	position: relative;
+	float: right;
+	margin-right: 20px;
+	margin-top: -250px;
+	width: 470px;
+	height: 262px;
+   
+}
+
+#image_slideshow2{
+
+    display:none;
+	background: url("../images/image_slideshow2.jpg");
+	width: 470px;
+	height: 272px; 
+	position: relative;
+	float: right;
+	margin-right: 20px;
+	margin-top: -250px;
+	width: 470px;
+	height: 262px;
+   
+
+}
+
+#image_slideshow3{
+
+
+    display:none;
+	background: url("../images/image_slideshow3.jpg");
+	width: 470px;
+	height: 272px; 
+	position: relative;
+	float: right;
+	margin-right: 20px;
+	margin-top: -250px;
+	width: 470px;
+	height: 262px;
+
+}
+#image_slideshow4{
+
+
+    display:none;
+	background: url("../images/image_slideshow4.jpg");
+	width: 470px;
+	height: 272px; 
+	position: relative;
+	float: right;
+	margin-right: 20px;
+	margin-top: -250px;
+	width: 470px;
+	height: 262px;
+
+}
+#image_slideshow5{
+
+
+    display:none;
+	background: url("../images/image_slideshow5.jpg");
+	width: 470px;
+	height: 272px; 
+	position: relative;
+	float: right;
+	margin-right: 20px;
+	margin-top: -250px;
+	width: 470px;
+	height: 262px;
+
+}
+
+
+
+
+
+
+
+
+
+
+

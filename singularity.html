@@ -7,8 +7,10 @@
 		<link rel = "stylesheet" type = "text/css" href = "css/singularity.css"/>
 		<link rel = "stylesheet" type = "text/css" href = "css/singularity1.css"/>
 		<link rel = "stylesheet" type = "text/css" href = "css/singularity2.css"/>
+		<link rel = "stylesheet" type = "text/css" href = "css/singularity3.css"/>
 		<script type= "text/javascript" src = "jquery/jQuery.js"></script>
 		<script type = "text/javascript" src = "jquery/singularity.js"></script>
+		<script type = "text/javascript" src = "jquery/singularity1.js"></script>
 		<!--<meta name ="viewport" content="width=device-width,initial-scale=1.0">-->
 
 
@@ -140,19 +142,42 @@
 			<div id="text_quote"><p><q><em>CEOs are desperate to know this stuff.Everyone's trying to figure out what's coming next.</em></q></p></div><br>
 		   
 			<div id="div_text_Mike"><p>__</p><br><p id ="text_Mike">Mike Federle, COO<br>Forbes Media</p></div>
+			
+			
+	 <!--slideshow-->
+
+          	
+               <div class="slides">
+					<div id="image_slideshow1" class="fade"></div>
+					
+					<div id="image_slideshow2" class="fade"></div>
+					
+					<div id="image_slideshow3" class="fade"></div>
+					
+					<div id="image_slideshow4" class="fade"></div>
+					
+					<div id="image_slideshow5" class="fade"></div>
+			    </div>
+				
+				<a class="previous_slide" onclick = "plusSlides(-1)">&#10094;</a>
+				
+				<a class="next_slide" onclick = "plusSlides(1)">&#10095;</a>
+
+
+           		
 		
 	 	
      <!--submit bar-->
 	    <div id="submit_bar">
-			<p id="text_submitbar">Keep up to speed with SU News<input type="text" name="textbar" placeholder="  Email"></p>
-			<div id="button_submit">Submit</div>
+			<p id="text_submitbar">Keep up to speed with SU News<input type="text" name="textbar" placeholder="  Email" id="submit_bar_input"></p>
+			<div id="button_submit"><a href="#">Submit</a></div>
 		</div>
 		
      <!--upcoming events bar-->
 	    <div id="upcoming_bar">
 		
 		    <!--upcoming bar text-->
-		    <p id="text_upcoming">UPCOMING PROGRAMS</p><p id="text_seeall">See all ></p>
+		    <p id="text_upcoming">UPCOMING PROGRAMS</p><p id="text_seeall"><a href="#" id="see_all_upcomingbar">See all ></a></p>
 			
 			<!--upcoming bar images-->
 			
@@ -195,10 +220,107 @@
 	    <!--faculty and speakers bar-->
 		<div id="facultyandspeakers_bar"><p id="text_facultyandspeakers">FACULTY AND SPEAKERS</p></div>
 		
+		<!--Faculty Images-->
+		
+			
+			<!-- images array1-->
+			<div id="images_array1" >
+				
+				<div id="peter_diamandis" class="active1"><a href="#"><div id="tag_peter"><div id="text_peter">Peter Diamandis</div></div></a></div>
+				
+				<div id="david_roberts"><a href="#"><div id="tag_david"><div id="text_david">David Roberts</div></div></a></div>
+				
+				<div id="raymond_mccauley"><a href="#"><div id="tag_raymond"><div id="text_raymond">Raymond McCauley</div></div></a></div>
+				
+				<div id="andrew_hessel"><a href="#"><div id="tag_andrew"><div id="text_andrew">Andrew Hessel</div></div></a></div>
+			
+			</div>
+			
+			<!-- images array2-->
+			
+			<div id="images_array2">
+				
+				<div id="ray_kurzweil" class="active2"><a href="#"><div id="tag_ray"><div id="text_ray">Ray Kurzweil</div></div></a></div>
+				
+				<div id="salim_ismail"><a href="#"><div id="tag_salim"><div id="text_salim">Salim Ismail</div></div></a></div>
+				
+				<div id="marc_goodman"><a href="#"><div id="tag_marc"><div id="text_marc">Marc Goodman</div></div></a></div>
+				
+				<div id="paul_saffo"><a href="#"><div id="tag_saffo"><div id="text_saffo">Paul Saffo</div></div></a></div>
+			
+			</div>
+			
+			<!--array3-->
+			<div id="images_array3">
+			
+				<div id="abi_reichental" class="active3"><a href="#"><div id="tag_abi"><div id="text_abi">Abi Reichental</div></div></a></div>
+				
+				<div id="vivek_wadhwa"><a href="#"><div id="tag_vivek"><div id="text_vivek">Vivek Wadhwa</div></div></a></div>
+				
+				<div id="ralph_merkle"><a href="#"><div id="tag_ralph"><div id="text_ralph">Ralph Merkle</div></div></a></div>
+				
+				<div id="robert_freitas"><a href="#"><div id="tag_freitas"><div id="text_freitas">Robert Freitas</div></div></a></div>
+				
+			
+			
+			</div>
+			
+			<!--array4-->
+			
+			<div id="images_array4">
+			
+			
+				<div id="kathryn" class="active4"><a href="#"><div id="tag_kathryn" class="active4"><div id="text_kathryn">Kathryn Myronuk</div></div></a></div>
+				
+				<div id="daniel_kraft"><a href="#"><div id="tag_daniel"><div id="text_daniel">Daniel Kraft</div></div></a></div>
+				
+				<div id="jonathan"><a href="#"><div id="tag_jonathan"><div id="text_jonathan">Jonathan Knowles</div></div></a></div>
+				
+				<div id="nick_haan"><a href="#"><div id="tag_nick"><div id="text_nick">Nick Haan</div></div></a></div>
+			
+			
+			</div>
+			
+			<!--array5-->
+			
+			
+			<div id="images_array5">
+				
+				<div id="robert_H" class="active5"><a href="#"><div id="tag_robertH" class="active5"><div id="text_robertH">Robert Hariri</div></div></a></div>
+				
+				<div id="neil"><a href="#"><div id="tag_neil"><div id="text_neil">Neil Jacobstein</div></div></a></div>
+				
+				<div id="gregg"><a href="#"><div id="tag_gregg"><div id="text_gregg">Gregg Maryniak</div></div></a></div>
+				
+				<div id="eric"><a href="#"><div id="tag_eric"><div id="text_eric">Eric Ries</div></div></a></div>
+			
+			
+			</div>
+			
+			<!--array6-->
+			
+			<div id="images_array6">
+			
+				
+				<div id="jeremy_howard" class="active6"><a href="#"><div id="tag_jeremy" class="active6"><div id="text_jeremy">Jeremy Howard</div></div></a></div>
+				
+				<div id="john_hagel"><a href="#"><div id="tag_john"><div id="text_john">John Hagel</div></div></a></div>
+				
+				<div id="catherine_mohr"><a href="#"><div id="tag_mohr"><div id="text_mohr">Catherine Mohr</div></div></a></div>
+				
+				<div id="brad"><a href="#"><div id="tag_brad"><div id="text_brad">Brad Templeton</div></div></a></div>
+			
+			
+			</div>
+		
+	
+		
+	
+		
 		
 		
 		<!--events bar-->
-		<div id="events_bar"><p id="text_events">EVENTS</p><p id="events_seeall">See all ></p></div>
+		<div id="events_bar"><p id="text_events">EVENTS</p><p id="events_seeall"><a href="#" id="see_all_events_bar">See all ></a></p></div>
 
 
 		<div class="events_program_bars">
@@ -221,7 +343,7 @@
 
         <!--Singularity University News bar-->
 
-		<div id="news_bar"><p id="text_news_bar1">SINGULARITY UNIVERSITY NEWS</p><p id="text_news_bar2">See all ></p></div>
+		<div id="news_bar"><p id="text_news_bar1">SINGULARITY UNIVERSITY NEWS</p><p id="text_news_bar2_seeall"><a href="#" id="news_bar_seeall">See all ></a></p></div>
 
 			<div class="singularity_university_news">
 			
@@ -247,14 +369,18 @@
 			</div>
 			
 			
+			
+			
 			<!--Singularity University Daily Coverage bar-->
-				<div id="daily_coverage_bar"><p id = "text_daily_coverage_bar1">SINGULARITY UNIVERSITY DAILY COVERAGE</p><p id = "text_daily_coverage_bar2">See all ></p></div>
+				<div id="daily_coverage_bar"><p id = "text_daily_coverage_bar1">SINGULARITY UNIVERSITY DAILY COVERAGE</p><p id = "text_daily_coverage_bar2_seeall"><a href="#" id="daily_coverage_seeall">See all ></a></p></div>
 		
 		        <div class="SU_daily_coverage_bars">
+				
+				    <a href="#"><div id="protein_evolution_bar"><img src="images/protein-evolution-1.jpg" id="image_protein_evolution"><p id="text_protein_evolution_bar1">Scientists Unearth Key Evolutionary Links in Protein</a></p><p id="text_protein_evolution_bar2">May 25th, 2016</p></div><hr>
 		
 					<a href="#"><div id="synthetic_life_bar"><img src="images/is-the-world-ready-for-synthetic-life-3.jpg" id="image_synthetic_life"><p id="text_synthetic_life_bar1">Is the World Ready for Synthetic Life? Scientists Plan to Create Whole Genomes</a></p><p id="text_synthetic_life_bar2">May 22nd, 2016</p></div><hr>
 					
-					<a href="#"><div id="awesome_stories_bar"><img src="images/awesomestories.jpg" id="image_awesome_stories"><p id="text_awesome_stories1">This Weeks's Awesome Stories From Around The Web</a></p><p id="text_awesome_stories2">May 21st, 2016</p></div><hr>
+					<a href="#"><div id="awesome_stories_bar"><img src="images/awesomestories2.jpg" id="image_awesome_stories"><p id="text_awesome_stories1">This Weeks's Awesome Stories From Around The Web</a></p><p id="text_awesome_stories2">May 21st, 2016</p></div><hr>
 					
 					<a href="#"><div id="decipher_brain_bar"><img src="images/mathematics-cells-brain-5.jpg" id="image_decipher_brain"><p id="text_decipher_brain1">How The Hidden Mathematics of Living Cells Could Help Us Decipher The Brain</a></p><p id="text_decipher_brain2">May 20th, 2016</p></div><hr>
 					
@@ -293,7 +419,7 @@
 		 
             <!--Press bar-->
 
-		    <div id="press_bar"><p id = "text_press_bar1">PRESS</p><p id = "text_press_bar2">See all ></p></div>
+		    <div id="press_bar"><p id = "text_press_bar1">PRESS</p><p id = "text_press_bar2"><a href="#" id ="pressbar_seeall">See all ></a></p></div>
 		
 		        <div class="press_program_bars">
 		
@@ -357,8 +483,28 @@
 					<!--corporate bar-->
 					
 					<div id="corporate_founders"><p id ="text_corporate_title">Corporate Founders</p><input type="text" id="search" placeholder = "Search"><a href="#"><img src="images/search.png" id="search_image"></a>
-<hr id="corporate_title_hr">
-					
+                        <hr id="corporate_title_hr">
+						<div id ="footer_images">
+						
+							<div id="footer_images1">
+								<a href="#"><img src="images/logo-genetech-footer.png" id="genetech_image"></a>
+								<img src="images/logo-autodesk-footer.png" id="autodesk_image">
+								<img src="images/logo-google-footer.png" id="google_image">
+							</div>
+							
+							<div id="footer_images2">
+								<img src="images/logo-nokia-footer.png" id="nokia_image">
+								<img src="images/logo-cisco-footer.png" id="cisco_image">
+								<img src="images/logo-kauffman-footer.png" id="kauffman_image">
+								<img src="images/logo-eplanet-footer.png" id="eplanet_image">
+							</div>
+							
+							<div id="footer_images3">
+								<img src="images/logo_deloitte_white.png" id="deloitte_image">
+						    </div>
+							
+						</div>
+						
 					</div>
 					
 					
@@ -366,7 +512,29 @@
 				
 				</div>
 				
+				<!-- second footer bar-->
 				
+				<div class="footer_bar2">
+				
+					<hr id="footer_bar2_hr1">
+					
+					<div id="submit_bar_footerbar2">
+					<p id="text_submitbar_footer">Keep up to speed with SU News<input type="text" name="textbar1" placeholder="  Email" id="submit_bar_footer_input"></p>
+					<div id="button_submit_footer">Submit</div>
+					
+					</div>
+					
+					<hr id="footer_bar2_hr2">
+					
+					<p id ="text_footer">
+						Singularity University, Singularity Hub, Singularity Summit, SU Labs, Singularity Labs, Exponential Medicine, Exponential Finance and all associated logos and design elements are trademarks and/or service marks of Singularity Education Group.<br>
+						&copy;2016 Singularity Education Group. All Rights Reserved.<a href="#" id="TOU">Terms of Use </a>|<a href="#" id="PP"> Privacy Policy</a><br>
+						Singularity University is not a degree granting institution.
+					</p>
+					
+				
+				
+				</div>
 				
 				
 				
