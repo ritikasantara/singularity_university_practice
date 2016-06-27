@@ -1,5 +1,6 @@
 
 $(document).ready(function(){	
+
 	$("#about").hover(function(){
 		
 		
@@ -7,6 +8,8 @@ $(document).ready(function(){
 		 
 		
 	 });
+	 
+	 
 	$("#about").mouseleave(function(){
 		
 		
@@ -16,9 +19,6 @@ $(document).ready(function(){
 	 });
 
 	 
-	 
-
-
 
 	$("#impact").hover(function(){
 		

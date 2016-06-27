@@ -37,12 +37,14 @@
 
 }
 
-#news_bar_seeall{
+#text_news_bar2_seeall a{
 
     color: #353f47;
-	cursor: pointer;
-
+	text-decoration: none;
+    
 }
+
+
 
 
 
@@ -884,7 +886,7 @@ a{
 
 #text_press_bar2{
 
-	color: #353f47;
+	
 	font-family: calibri light;
 	font-size: 16px;
 	float: right;
@@ -892,6 +894,15 @@ a{
 	line-height: 24px;
 
 }
+
+#text_press_bar2 a{
+     
+	color: #353f47;
+    text-decoration: none;	
+
+
+}
+
 
 
 .press_program_bars{
@@ -1294,7 +1305,7 @@ position: absolute;
 #protein_evolution_bar{
 
 	background-color: #e0e0f8;
-	height: 135px;/*120*/
+	height: 135px;
 
 }
 
@@ -1303,7 +1314,7 @@ position: absolute;
 	float: left;
 	width: 200px;
 	height: 99px;
-	margin-top: 15px;/*10*/
+	margin-top: 15px;
 	margin-left: 10px;
     padding-right: 13px;
 }
