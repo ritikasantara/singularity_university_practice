@@ -33,7 +33,7 @@
 	float: right;
 	margin-right: 15px;
 	line-height: 22px;
-	
+
 
 }
 
@@ -519,9 +519,11 @@
 .pagination_bar{
 
 	
+	
+	
 	float: left;
 	margin-left: 20px;
-	margin-top: 650px;
+	margin-top: 534px;
 	width: 485px;
 	height: 50px;
 	background-color: #e0e0f8;
@@ -887,7 +889,7 @@ a{
 #text_press_bar2{
 
 	
-	font-family: calibri light;
+	font-family: calibri;
 	font-size: 16px;
 	float: right;
 	margin-right: 20px;
@@ -1361,8 +1363,8 @@ position: absolute;
 #synthetic_life_bar{
 
 	background-color: #e0e0f8;
-	height: 135px;/*120*/
-
+	height: 125px;/*120*/
+    margin-top: 0px;
 }
 
 #image_synthetic_life{
@@ -1370,18 +1372,18 @@ position: absolute;
 	float: left;
 	width: 200px;
 	height: 99px;
-	margin-top: 15px;/*10*/
+	margin-top: 5px;/*10*/
 	margin-left: 10px;
     padding-right: 13px;
 }
 
 #text_synthetic_life_bar1{
 
-    padding-top: 10px;
+   margin-top: 3px;
 	padding-left: 5px;
 	font-size: 20px;
 	font-family: calibri;
-    
+   
 
 }
 

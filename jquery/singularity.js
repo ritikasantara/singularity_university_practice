@@ -420,12 +420,14 @@ $(document).ready(function(){
 		
 	});
 	
+
 	$("#news_bar_seeall").hover(function(){
 		
 		
 		$(this).css("color","#808080");
 		
 	});
+	
 	
 	$("#news_bar_seeall").mouseleave(function(){
 		
