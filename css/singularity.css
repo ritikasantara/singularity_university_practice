@@ -117,14 +117,14 @@
 .dropdown_about {
 
 	width: 268px;
-	height: 390px;
+	height: 400px;
 	background-color: #566573;
 	position: absolute;
 	left: 39px;
 	top: 51px;
     display: none;
 	z-index:1;
-	box-shadow:12px 13px 9px rgba(0,0,0,0.5);
+	box-shadow:3px 3px 9px rgba(0,0,0,0.5);
 }
 
 .dropdown_about a{
@@ -134,7 +134,7 @@
 	padding: 9px 15px;
 	text-align: left;
 	display: block;
-	color: #bfbfbf;
+	color: #d2d2d2;
     text-decoration: none;
 	
 }
@@ -150,7 +150,7 @@
     display: none;
 	left: 120px;
 	position: absolute;
-	box-shadow:12px 13px 9px rgba(0,0,0,0.5);
+	box-shadow:3px 3px 9px rgba(0,0,0,0.5);
 	
 }
 .dropdown_impact a{
@@ -160,7 +160,7 @@
 	padding: 9px 15px;
 	text-align: left;
 	display: block;
-	color: #bfbfbf;
+	color: #d2d2d2;
     text-decoration: none;
 
 }
@@ -177,7 +177,7 @@
 	top: 51px;
 	left: 210px;
 	z-index:1;
-	box-shadow:12px 13px 9px rgba(0,0,0,0.5);
+	box-shadow:3px 3px 9px rgba(0,0,0,0.5);
 	
 }
 .dropdown_programs a{
@@ -187,7 +187,7 @@
 	padding: 9px 15px;
 	text-align: left;
 	display: block;
-	color: #bfbfbf;
+	color: #d2d2d2;
     text-decoration: none;
 
 }
@@ -203,7 +203,7 @@
 	position: absolute;
 	top: 51px;
 	left: 310px;
-	box-shadow:12px 13px 9px rgba(0,0,0,0.5);
+	box-shadow:3px 3px 9px rgba(0,0,0,0.5);
 	z-index: 1;
 }
 .dropdown_faculty a{
@@ -213,7 +213,7 @@
 	padding: 9px 15px;
 	text-align: left;
 	display: block;
-	color: #bfbfbf;
+	color: #d2d2d2;
     text-decoration: none;
 	
 
@@ -237,7 +237,7 @@ z-index: -1;
 	top: 51px;
 	left: 400px;
 	position: absolute;
-	box-shadow:12px 13px 9px rgba(0,0,0,0.5);
+	box-shadow:3px 3px 9px rgba(0,0,0,0.5);
 	z-index: 1;
 }
 
@@ -248,7 +248,7 @@ z-index: -1;
 	padding: 9px 15px;
 	text-align: left;
 	display: block;
-	color: #bfbfbf;
+	color: #d2d2d2;
     text-decoration: none;
 
 }
@@ -265,7 +265,7 @@ z-index: -1;
 	top: 51px;
 	left: 490px;
 	position: absolute;
-	box-shadow:12px 13px 9px rgba(0,0,0,0.5);
+	box-shadow:3px 3px 9px rgba(0,0,0,0.5);
 	z-index: 1;
 }
 
@@ -285,8 +285,14 @@ z-index: -1;
 	padding: 9px 15px;
 	text-align: left;
 	display: block;
-	color: #bfbfbf;
+	color: #d2d2d2;
     text-decoration: none;
+
+}
+
+#sin_hub{
+
+margin-top: 10px;
 
 }
 
@@ -301,7 +307,7 @@ z-index: -1;
 	top: 51px;
 	left: 637px;
 	position: absolute;
-	box-shadow:12px 13px 9px rgba(0,0,0,0.5);
+	box-shadow:3px 3px 9px rgba(0,0,0,0.5);
 	z-index: 1;
 }
 
@@ -312,7 +318,7 @@ z-index: -1;
 	padding: 9px 15px;
 	text-align: left;
 	display: block;
-	color: #bfbfbf;
+	color: #d2d2d2;
     text-decoration: none;
 }
 
