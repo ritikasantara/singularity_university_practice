@@ -1357,7 +1357,7 @@ position: absolute;
 #awesome_stories_bar{
 
 	background-color: #e0e0f8;
-	height: 135px;
+	height: 125px;
     
 }
 
@@ -1410,9 +1410,8 @@ position: absolute;
 
 #decipher_brain_bar{
 
-	background-color: #e0e0f8;
-	height: 130px;
-    margin-top: -20px;
+    background-color: #e0e0f8;
+	height: 125px;
 }
 
 #image_decipher_brain{
@@ -1420,33 +1419,27 @@ position: absolute;
 	float: left;
 	width: 200px;
 	height: 99px;
-	margin-top: 15px;
+	margin-top: 5px;
 	margin-left: 10px;
     padding-right: 13px;
 }
 
 #text_decipher_brain1{
 
-    padding-top: 10px;
-	padding-left: 5px;
+    margin-top: 3px;
 	font-size: 20px;
 	font-family: calibri;
-    
 
 }
 
 #text_decipher_brain2{
 
-    padding-top: 5px;
-	padding-left: 5px;
+    margin-top: -19px;
 	font-size: 20px;
 	font-family: calibri;
 	font-size: 18px;
 	font-weight: bold;
-	margin-top: -24px;
-	margin-left: 40px;
     color: #353f47;
-   
 }
 
 #text_decipher_brain1 a{
