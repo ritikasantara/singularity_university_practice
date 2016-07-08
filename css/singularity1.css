@@ -1582,7 +1582,7 @@ position: absolute;
 	float: left;
 	width: 200px;
 	height: 99px;
-	margin-top: 5px;
+	margin-top: 15px;
 	margin-left: 10px;
     padding-right: 13px;
 }
@@ -1590,6 +1590,7 @@ position: absolute;
 #text_self_driving_trucks_bar1{
 
     margin-top: 3px;
+	padding-top: 10px;
 	font-size: 20px;
 	font-family: calibri;
 
@@ -1636,7 +1637,7 @@ position: absolute;
 	float: left;
 	width: 200px;
 	height: 99px;
-	margin-top: 5px;
+	margin-top: 15px;
 	margin-left: 10px;
     padding-right: 13px;
     
@@ -1645,6 +1646,7 @@ position: absolute;
 #text_uber_ize_bar1{
 
     margin-top: 3px;
+	padding-top: 10px;
 	font-size: 20px;
 	font-family: calibri;
     
@@ -1678,12 +1680,10 @@ position: absolute;
 /*MIT Big data bar*/
 #MIT_bigdata_bar{
 
-
     background-color: #e0e0f8;
 	height: 140px;
     margin-top: -9px;
 	margin-bottom: -7px;
-    
 }
 
 #image_MIT_bigdata_bar{
@@ -1691,7 +1691,7 @@ position: absolute;
 	float: left;
 	width: 200px;
 	height: 99px;
-	margin-top: 5px;
+	margin-top: 15px;
 	margin-left: 10px;
     padding-right: 13px;
 }
@@ -1699,6 +1699,7 @@ position: absolute;
 #text_MIT_bigdata_bar1{
 
     margin-top: 3px;
+	padding-top: 10px;
 	font-size: 20px;
 	font-family: calibri;
     
